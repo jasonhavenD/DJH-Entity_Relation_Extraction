@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96752e5b-521b-41d7-a61b-0a0a7bb49ae5" name="Default" comment="" />
+    <list default="true" id="96752e5b-521b-41d7-a61b-0a0a7bb49ae5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../DJH-Chunking-Encoding-Algorithm/Corpus_Pretreatment.py" afterPath="$PROJECT_DIR$/../DJH-Chunking-Encoding-Algorithm/Corpus_Pretreatment.py" />
+      <change beforePath="$PROJECT_DIR$/../DJH-Chunking-Encoding-Algorithm/Pos_tag.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DJH-Chunking-Encoding-Algorithm/corpus_pretreated.txt" afterPath="$PROJECT_DIR$/../DJH-Chunking-Encoding-Algorithm/corpus_pretreated.txt" />
+      <change beforePath="$PROJECT_DIR$/../DJH-Chunking-Encoding-Algorithm/test/model" afterPath="$PROJECT_DIR$/../DJH-Chunking-Encoding-Algorithm/test/model" />
+      <change beforePath="$PROJECT_DIR$/../DJH-Chunking-Encoding-Algorithm/test/result.txt" afterPath="$PROJECT_DIR$/../DJH-Chunking-Encoding-Algorithm/test/result.txt" />
+      <change beforePath="$PROJECT_DIR$/../DJH-Chunking-Encoding-Algorithm/test/test.txt" afterPath="$PROJECT_DIR$/../DJH-Chunking-Encoding-Algorithm/test/test.txt" />
+      <change beforePath="$PROJECT_DIR$/../DJH-Chunking-Encoding-Algorithm/test/train.log" afterPath="$PROJECT_DIR$/../DJH-Chunking-Encoding-Algorithm/test/train.log" />
+      <change beforePath="$PROJECT_DIR$/../DJH-Chunking-Encoding-Algorithm/test/train.txt" afterPath="$PROJECT_DIR$/../DJH-Chunking-Encoding-Algorithm/test/train.txt" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,30 +99,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="DJH-Entity_Relation_Extraction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DJH-Entity_Relation_Extraction" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DJH-Entity_Relation_Extraction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DJH-Entity_Relation_Extraction" type="462c0819:PsiDirectoryNode" />
-              <item name="practise" type="462c0819:PsiDirectoryNode" />
+              <item name="DJH-RE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DJH-RE" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DJH-Chunking-Encoding-Algorithm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -152,7 +156,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19259657" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19486082" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
