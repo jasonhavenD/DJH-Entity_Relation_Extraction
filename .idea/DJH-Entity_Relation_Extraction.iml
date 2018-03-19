@@ -8,6 +8,7 @@
     <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="DJH-Chunking-Encoding-Algorithm" />
+    <orderEntry type="module" module-name="DJH-Python" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="py.test" />

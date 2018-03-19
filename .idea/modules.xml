@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../DJH-Chunking-Encoding-Algorithm/.idea/DJH-Chunking-Encoding-Algorithm.iml" filepath="$PROJECT_DIR$/../DJH-Chunking-Encoding-Algorithm/.idea/DJH-Chunking-Encoding-Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DJH-Entity_Relation_Extraction.iml" filepath="$PROJECT_DIR$/.idea/DJH-Entity_Relation_Extraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DJH-Python/.idea/DJH-Python.iml" filepath="$PROJECT_DIR$/../DJH-Python/.idea/DJH-Python.iml" />
     </modules>
   </component>
 </project>
