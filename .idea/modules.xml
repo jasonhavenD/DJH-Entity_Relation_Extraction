@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ChineseNER-NN/.idea/ChineseNER-NN.iml" filepath="$PROJECT_DIR$/../ChineseNER-NN/.idea/ChineseNER-NN.iml" />
       <module fileurl="file://$PROJECT_DIR$/../DJH-Chunking-Encoding-Algorithm/.idea/DJH-Chunking-Encoding-Algorithm.iml" filepath="$PROJECT_DIR$/../DJH-Chunking-Encoding-Algorithm/.idea/DJH-Chunking-Encoding-Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DJH-Entity_Relation_Extraction.iml" filepath="$PROJECT_DIR$/.idea/DJH-Entity_Relation_Extraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/../DJH-Python/.idea/DJH-Python.iml" filepath="$PROJECT_DIR$/../DJH-Python/.idea/DJH-Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Relation-Extraction Chinese Biology/.idea/Relation-Extraction Chinese Biology.iml" filepath="$PROJECT_DIR$/../Relation-Extraction Chinese Biology/.idea/Relation-Extraction Chinese Biology.iml" />
     </modules>
   </component>
 </project>

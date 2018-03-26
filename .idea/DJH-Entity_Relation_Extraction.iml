@@ -9,6 +9,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="DJH-Chunking-Encoding-Algorithm" />
     <orderEntry type="module" module-name="DJH-Python" />
+    <orderEntry type="module" module-name="Relation-Extraction Chinese Biology" />
+    <orderEntry type="module" module-name="ChineseNER-NN" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="py.test" />
