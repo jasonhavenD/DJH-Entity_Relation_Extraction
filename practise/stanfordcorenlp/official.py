@@ -38,6 +38,7 @@ if __name__ == '__main__':
 	'''
 	# 使用已存在的服务
 	nlp = StanfordCoreNLP('http://corenlp.run', port=80)
+	# nlp = StanfordCoreNLP(r'C:\stanford-corenlp-full-2018-02-27')
 	
 	# General API
 	'''
@@ -49,13 +50,13 @@ if __name__ == '__main__':
 	# print(nlp.annotate(english_sents, properties=props))
 	
 	# nlp.switch_language('zh')
-	output = nlp.annotate(chinese_sents, {'annotators': 'tokenize,ssplit', 'outputFormat': 'json'})
+	# output = nlp.annotate(chinese_sents, {'annotators': 'tokenize,ssplit', 'outputFormat': 'json'})
 	# text = nlp.annotate(chinese_sents, {'annotators': 'tokenize,ssplit', 'outputFormat': 'text'})
 	# print(output)
 	# print(type(output))
 	# print(os.getcwd())
-	output_dict = json.loads(output, encoding='utf-8')
-	print(output_dict)
-	with codecs.open('output.json', 'w', 'utf-8') as f:
-		json.dump(output_dict, f)
+	# output_dict = json.loads(output, encoding='utf-8')
+	# print(output_dict)
+	# with codecs.open('output.json', 'w', 'utf-8') as f:
+	# 	json.dump(output_dict, f)
 	nlp.close()

@@ -22,7 +22,6 @@ if __name__ == '__main__':
 	test_words = IOUtil.load_files([test_input])
 	
 	nlp = StanfordCoreNLP('C:\stanford-corenlp-full-2018-02-27', lang='zh')
-	
 	'''
 	train_words_pos_taged = []
 	for line in train_words:
@@ -32,7 +31,7 @@ if __name__ == '__main__':
 		for pos_tag in line_tags:
 			train_words_pos_taged.append(' '.join(pos_tag))
 			train_words_pos_taged.append('\n')
-	# print(train_words_pos_taged)
+	print(train_words_pos_taged)
 	
 	test_words_pos_taged = []
 	for line in test_words:
