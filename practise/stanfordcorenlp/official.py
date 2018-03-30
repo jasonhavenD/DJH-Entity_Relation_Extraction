@@ -22,7 +22,7 @@ if __name__ == '__main__':
 	english_sents = '''
 	stanfordcorenlp is a Python wrapper for Stanford CoreNLP. It provides a simple API for text processing tasks such as Tokenization, Part of Speech Tagging, Named Entity Reconigtion, Constituency Parsing, Dependency Parsing, and more.
 	'''
-	
+
 	'''
 	#简单使用例子
 	
@@ -37,9 +37,11 @@ if __name__ == '__main__':
 	
 	'''
 	# 使用已存在的服务
-	nlp = StanfordCoreNLP('http://corenlp.run', port=80)
+	# nlp = StanfordCoreNLP('http://corenlp.run', port=80)
+	nlp = StanfordCoreNLP('C:\stanford-corenlp-full-2018-02-27', port=80)
+
 	# nlp = StanfordCoreNLP(r'C:\stanford-corenlp-full-2018-02-27')
-	
+
 	# General API
 	'''
 	annotators: tokenize, ssplit, pos, lemma, ner, parse, depparse, dcoref (See Detail)
@@ -48,8 +50,8 @@ if __name__ == '__main__':
 	'''
 	# props = {'annotators': 'tokenize,ssplit,pos', 'pipelineLanguage': 'en', 'outputFormat': 'json'}
 	# print(nlp.annotate(english_sents, properties=props))
-	
-	# nlp.switch_language('zh')
+
+	nlp.switch_language('zh')
 	# output = nlp.annotate(chinese_sents, {'annotators': 'tokenize,ssplit', 'outputFormat': 'json'})
 	# text = nlp.annotate(chinese_sents, {'annotators': 'tokenize,ssplit', 'outputFormat': 'text'})
 	# print(output)
@@ -59,4 +61,11 @@ if __name__ == '__main__':
 	# print(output_dict)
 	# with codecs.open('output.json', 'w', 'utf-8') as f:
 	# 	json.dump(output_dict, f)
+	sentence = "最满意的一点：空间够大，配置够全，动力够劲？最不满意的一点：刚上市，终端没有优惠!"
+	# print('Tokenize:', nlp.word_tokenize(sentence))
+	print('Part of Speech:', nlp.pos_tag(sentence))
+	# print('Named Entities:', nlp.ner(sentence))
+	print('Constituency Parsing:', nlp.parse(sentence))#得到词性、句子成分
+	print('Dependency Parsing:', nlp.dependency_parse(sentence))#得到依存句法分析
+
 	nlp.close()
