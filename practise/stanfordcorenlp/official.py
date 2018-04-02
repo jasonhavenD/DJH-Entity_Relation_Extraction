@@ -52,20 +52,19 @@ if __name__ == '__main__':
 	# print(nlp.annotate(english_sents, properties=props))
 
 	nlp.switch_language('zh')
-	# output = nlp.annotate(chinese_sents, {'annotators': 'tokenize,ssplit', 'outputFormat': 'json'})
+	output = nlp.annotate(chinese_sents, {'annotators': 'tokenize,ssplit', 'outputFormat': 'text'})
 	# text = nlp.annotate(chinese_sents, {'annotators': 'tokenize,ssplit', 'outputFormat': 'text'})
-	# print(output)
+	print(output)
 	# print(type(output))
 	# print(os.getcwd())
 	# output_dict = json.loads(output, encoding='utf-8')
 	# print(output_dict)
 	# with codecs.open('output.json', 'w', 'utf-8') as f:
 	# 	json.dump(output_dict, f)
-	sentence = "最满意的一点：空间够大，配置够全，动力够劲？最不满意的一点：刚上市，终端没有优惠!"
+	# sentence = "最满意的一点：空间够大，配置够全，动力够劲？最不满意的一点：刚上市，终端没有优惠!"
 	# print('Tokenize:', nlp.word_tokenize(sentence))
-	print('Part of Speech:', nlp.pos_tag(sentence))
+	# print('Part of Speech:', nlp.pos_tag(sentence))
 	# print('Named Entities:', nlp.ner(sentence))
-	print('Constituency Parsing:', nlp.parse(sentence))#得到词性、句子成分
-	print('Dependency Parsing:', nlp.dependency_parse(sentence))#得到依存句法分析
-
+	# print('Constituency Parsing:', nlp.parse(sentence))#得到词性、句子成分
+	# print('Dependency Parsing:', nlp.dependency_parse(sentence))#得到依存句法分析
 	nlp.close()
