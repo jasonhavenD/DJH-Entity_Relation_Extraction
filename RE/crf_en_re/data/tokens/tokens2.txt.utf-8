@@ -1,0 +1,1081 @@
+Penn State awarded $ 13 million for vertical lift technology research UNIVERSITY PARK , Pa. - The Penn State Vertical Lift Research Center of Excellence ( VLRCOE ) was awarded $ 13,786,974 in funding through a cooperative agreement with the U.S. Army , U.S. Navy and the National Aeronautics and Space Administration to support a wide range of fundamental research related to vertical lift technology and educational activities for students .
+Vertical lift technology generally covers the class of aircraft that can land and take off without a runway .
+Helicopters and tiltrotors , such as the U.S. military 's V-22 Osprey , are the most common examples of vertical lift aircraft .
+The agreement , administered through the U.S. Army Aviation Development Directorate , provides funding for the VLRCOE program distributed over a five-year period .
+The award will include $ 7,992,930 in government funds contribution and $ 5,794,044 in cost-sharing funds contribution shared between Penn State and industry .
+`` This is our fifth consecutive agreement , and we are more than thrilled to enter into another long-term agreement with our government , industry and university partners that will help advance the frontiers of vertical lift technology , '' said Edward Smith , VLRCOE director and professor of aerospace engineering at Penn State .
+`` Over the last 20 years , we have built an extremely strong , stable program and faculty base , as well as developed unique experimental facilities , that enable successful transition of our work to higher technical readiness levels for the military and commercial aviation communities , and the rotorcraft industry . ''
+The funding will further collaborative , interdisciplinary research among approximately 25-30 faculty in several Penn State College of Engineering departments , including aerospace engineering , mechanical and nuclear engineering , and engineering science and mechanics .
+Scientists and engineers from the Penn State Applied Research Laboratory are also highly engaged in the program .
+Although the VLRCOE program supports leading-edge research objectives of various government programs , it places equal importance on the educational and technical development of aspiring engineers across multiple disciplines .
+Funding from the agreement will support approximately 20 graduate students and six to eight undergraduate research assistants annually , and also provide support in the way of student travel to conferences , seminar speakers and an enhanced educational curriculum .
+`` One of our primary goals with VLRCOE is to educate , inspire and recruit the next generation of engineers for the vertical flight sector , whether that be in industry , academia or government , '' said Kenneth Brentner , VLRCOE administrative director and professor of aerospace engineering at Penn State .
+`` Almost half of the total funds support students , which is very important to both us and our government partners .
+The funding helps the University attract the best and brightest students who get more than a classroom experience ; they get to see real technology problems we 're working on and have the opportunity to contribute to solutions , which is great experience for them . ''
+The cooperative agreement also includes four university partners that are dedicated to building a world-class integrated VLRCOE : University of Tennessee ; University of California , Davis ; Embry-Riddle Aeronautical University ; and Technion Israel Institute of Technology .
+`` Partnering with other universities allows us to expand the range of capabilities and the pool of resources we can bring to the 14 research projects that are part of this new agreement , '' said Joseph Horn , VLRCOE deputy director and professor of aerospace engineering at Penn State .
+`` By building a critical mass of capabilities , faculty and students in the rotorcraft field , we 're able to attract experts in related fields such as aeromechanics , acoustics and propulsion , as well as additional sources of funding related to rotorcraft engineering . ''
+Penn State VLRCOE is one of only three VLRCOEs in the United States .
+Penn State was competitively awarded one of three Rotorcraft Centers of Excellence ( RCOE ) cooperative agreements in 1996 by the newly formed National Rotorcraft Technology Center ( NRTC ) .
+Since then , Penn State has been competitively awarded RCOE and VLRCOE cooperative agreements from the NRTC in 2001 , 2006 and 2011.Personal aircraft aiming to take off from your home A start-up company hosted in an ESA business incubator is developing the world 's first vertical takeoff and landing aircraft for personal use .
+The electric two-seater will open the door to a new class of simpler , quieter and environmentally friendly planes available from 2018 .
+`` Our goal is to develop an aircraft for use in everyday life , '' explains Daniel Wiegand , CEO and one of the company 's four founders .
+`` We are going for a plane that can take off and land vertically and does not need the complex and expensive infrastructure of an airport .
+`` To reduce noise and pollution , we are using electric engines so it can also be used close to urban areas . ''
+Lilium aircraft Founded in February 2015 by four engineers and doctoral students from the Technical University of Munich in Germany , Lilium has already proved the concept with several scale , 25 kg prototypes and is now developing its first ultralight vertical takeoff and landing aircraft .
+Simpler and easier air transportation Today , general public aviation offers fixed-wing aircraft and helicopters .
+Conventional aircraft are efficient , fast and available in many sizes but require airports often 20-50 km from city centres because of their space-hungry runways and the high noise levels .
+Airports are expensive bottlenecks for transportation .
+This is especially so for short-haul flights , where travel time to and from airports can easily double the duration of a trip .
+This is not a problem for helicopters , which can take off almost anywhere and are therefore often used for short shuttle flights and special applications .
+However , helicopters are very noisy and difficult to fly - which requires expensive licences .
+They also have no backup in case of rotor failure , making them expensive to build and maintain .
+Access the video The Lilium vehicle combines the benefits of helicopters and fixed-wing aircraft while avoiding their drawbacks .
+While initially restricted to airfields , the goal is for it to take off vertically from almost anywhere - even from back gardens - it needs only an open flat area of about 15x15 m. Although taking off and landing like a helicopter , by swivelling its engines it also functions as a very efficient aircraft that can travel at up to 400 km h. Entirely electric , the plane is much quieter during takeoff than helicopters thanks to its ducted fan engines .
+Its batteries , engines and controllers are redundant , making it a much safer design than conventional helicopters .
+Mountain flight The plane is classed as a Light Sport Aircraft for two occupants , with the pilot 's licence requiring 20 hours ' minimum training - almost like taking a driving licence .
+It is intended for recreational flying during daylight , in good weather conditions and in uncongested airspace up to 3 km altitude .
+Using computer control for vertical takeoff and landing is essential for a vehicle targeted at the consumer market for personal transportation.Addressing the Safety Issues of Air Transportation of Lithium-ion Batteries Using Thermal Management Solutions The problems created by lithium ion batteries Lithium-ion batteries are almost everywhere nowadays and provide power for notebook and tablet computers , MP3 players , mobile phones and cameras , as well as cordless devices .
+This means that many air passengers will carry at least one battery with them as part of the items they carry onto the aircraft .
+While these batteries are generally reliable one issue with them is their ability , in a small number of cases , to overheat and catch fire .
+While this may be less of an issue and more easily contained in land-based environments or other modes of transport , the prospect of a fire is something which simply can not be countenanced in the enclosed space of an aircraft , which may be carrying several hundred passengers , as well as crew .
+The issue with heat relates to the potential creation of thermal runaway .
+This can be defined as auto-acceleration of heat generation , with a rapid temperature increase , characterised by the expulsion of flammable gases and liquids from the product casing .
+Put simply , just one battery overheating can result in a matter of a few minutes in an uncontrollable fire , explosion or pressure wave - or even all three .
+The key challenge is to prevent propagation between cells , modules , packaging and surroundings - on an aircraft , the aim is to extend the time available for emergency measures to be employed and for safe landing to occur .
+In an ideal world , manufacturers would employ chemistries and cell structures which prevent thermal runaway from occurring .
+However , increasing energy densities - batteries simply required to hold more charge - make this highly challenging , especially in applications where space is critical .
+Between March 1991 and January 2016 , the US Federal Aviation Administration ( FAA ) recorded a total of 171 incidents involving batteries carried as baggage or cargo .
+As the years have passed , an increasing proportion of these incidents are created by lithium batteries .
+These incidents have in some cases created a catastrophic effect .
+A fire which broke out on a UPS DC-8 cargo plane in Philadelphia in 2006 saw the aircraft completely destroyed .
+Four years later , another aircraft laden with a cargo of 81,000 lithium batteries caught fire and crashed shortly after take-off from Dubai , with two fatalities .
+The year after that , two crew members lost their lives when a cargo jet crashed into the East China Sea , shortly after a crew member reported a fire on board .
+What does the law say ?
+There are two main types of lithium batteries - Primary Lithium ( UN3090 ) and Lithium-Ion ( UN 3480 ) .
+The risk of fire created by both of these battery types has long been recognised by the authorities with both classified as Class 9 hazardous materials in Title 49 of the Code of Federal Regulations , the Hazardous Materials Regulations and the International Civil Aviation Organization ( ICAO ) Technical Instructions .
+A fire at Los Angeles Airport in 1999 involving 120,000 lithium primary cells resulted in the issue of five separate fire and safety recommendations by the National Transportation Safety Board which conducted an investigation , to the Research & Special Programs Administration and FAA , alongside the issue of FAA Dangerous Goods Advisory Bulletin ( DAGB ) 00-02 on this subject .
+With subsequent studies demonstrating that primary lithium cell fires can not be adequately suppressed by halon , primary lithium batteries were banned on passenger aircraft by the FAA in 2005 and by the International Civil Aviation Organization ( ICAO ) from the start of 2015 .
+Meanwhile FAA Safety Alert for Operators ( SAFO ) 16001 : Risks of Fire or Explosion when Transporting Lithium Ion or Lithium Metal Batteries as Cargo on Passenger and Cargo Aircraft , supports recommendations that before operators engage in the transport of lithium ion or lithium metal batteries in cargo aircraft they should be aware that both ICAO and major airframe manufactures ( Boeing and Airbus ) have recommended that operators perform risk assessments to establish whether and how they can manage the risks associated with the transportation of these items .
+These recommendations only go so far , but regulations are becoming much more stringent .
+February 22nd 2016 saw the ICAO pass a prohibition on the carrying of UN3480 lithium ion batteries as cargo on passenger aircraft , which came into effect on 1st April 2016 .
+As well as detailing this requirement , ICAO 'Technical Instructions for the Safe Transport of Dangerous Goods by Air ' 2015 16 ( Document 9284 ) also stipulates that lithium ion cells and batteries must be offered for transport as a state of charge ( SoC ) of no more than 30 % of their rated design capacity , with details relating to what constitutes acceptable packaging and labelling .
+While the carrying of primary lithium and lithium ion batteries may be subject to increased restriction , however , no such limits have been placed on the transport of these products within the main aircraft cabin .
+Even so , airlines themselves have recognised a need to tackle this issue .
+The solution Recognising the problems associated with overheating batteries and the need to minimise fire risk and provide insulation to contain heat spread , Morgan set out to harness the capabilities of its extensive range of state-of-the-art insulation technologies to develop a solution .
+Morgan 's expertise in the area of high-performance insulation to prevent the spread of thermal energy is globally renowned , not least in the supply of materials used to encapsulate flight data recorder FDR and cockpit voice recorder ( CVR ) products , and perhaps even more so in the Oil & Gas sector where its FireMaster Marine Plus Blanket used to surround the living quarters in offshore extraction facilities , protecting the structure to allow sufficient time for those working on the rig to escape in case of a fire outbreak .
+Various configurations and combinations of Morgan 's material range were examined and considered to contain heat and fire , minimise further fire risk and counter the issue of heat transfer .
+The ideal bag solution uses at its core the same product- FireMaster Marine Plus blanket , which is typically used to protect FRP composite , steel and aluminium structures for extended periods .
+The outer layer comprises a silicone-coated glass cloth and hook-and-loop tape fastener to secure the bag once the contents had been placed inside .
+The materials have been chosen to maintain their integrity even when they come into contact with water , which can be added immediately to help cool down the overheated battery .
+The dimensions of the bags are 500mm x 500mm and are bound with a high-temperature yarn which is typically used in heat protection clothing and welding equipment .
+The bags have been extensively tested together with Germanwings , which is part of the Lufthansa group .
+Lighter planes are the future A global fleet of composite planes could reduce carbon emissions by up to 15 per cent , but the lighter planes alone will not enable the aviation industry to meet its emissions targets , according to new research .
+The study , by the Universities of Sheffield , Cambridge and UCL ( University College London ) , is the first to carry out a comprehensive life cycle assessment ( LCA ) of a composite plane , such as the Boeing Dreamliner 787 or Airbus 350 , and extrapolate the results to the global fleet .
+The LCA covers manufacture , use and disposal , using publicly available information on the Boeing Dreamliner 787 fuselage and from the supply chain - such as the energy usage of the robots that construct the planes .
+The study compares the results to the traditional - and heavier - aluminium planes .
+Emissions during the manufacture of composite planes are over double those of aluminium planes .
+But because the lighter aircraft use significantly less fuel , these increased emissions are offset after just a few international flights .
+Over its lifetime , a composite plane creates up to 20 per cent fewer CO2 emissions than its aluminium equivalent .
+Professor in Advanced Materials Technologies at the University of Sheffield , Alma Hodzic , says : `` This study shows that the fuel consumption savings with composites far outweigh the increased environmental impact from their manufacture .
+Despite ongoing debates within the industry , the environmental and financial savings from composites mean that these materials offer a much better solution . ''
+The researchers fed the data from the LCA into a wider transport model to gauge the impact on CO2 emissions as composite planes are introduced into the global fleet over the next 25 years , taking into account other factors including population , economic prosperity , oil prices and speed of adoption of the new technology .
+The study - published in the International Journal of Life Cycle Assessment - estimated that by 2050 , composite planes could reduce emissions from the global fleet by 14-15 per cent relative to a fleet that maintains its existing aluminium-based configuration .
+Professor in Energy and Transport at UCL , Andreas Schafer , explains : `` The overall emissions reduction for the global fleet is lower than the reduction for an individual plane , partly , because by 2050 , not all the fleet will be of composite construction .
+New planes entering the fleet before 2020 could still be in use by 2050 , but the faster the uptake of this technology , the greater the environmental benefits will be . ''
+Dr Lynette Dray from Cambridge 's Department of Architecture agrees : `` Given that global air traffic is projected to increase four-fold between now and 2050 , changing the materials used could avoid 500 million tonnes of CO2 emissions in 2050 alone , a value that roughly corresponds to current emission levels . ''
+Professor Hodzic adds : `` The industry target is to halve CO2 emissions for all aircraft by 2020 and while composites will contribute to this , it can not be achieved by the introduction of lighter composite planes alone .
+However , our findings show that composites - alongside other technology and efficiency measures - should be part of the picture . `` .
+Iris for safer air travel 9 May 2014 Aviation accidents sometimes highlight how much we still rely on old-fashioned radio contact by pilots and vulnerable tracking systems .
+But satellites are set to change sky safety , thanks to international collaboration .
+ESA 's Iris programme is looking to satellites to make aviation safer through modern communications .
+Worldwide digital data links via satellite , offering much higher capacity , will become the standard for cockpit crews , with voice communications kept as backup .
+Iris is part of a much broader push to modernise how air traffic is managed in collaboration with the Single European Sky effort of the European Commission , Eurocontrol , airport operators , air navigation providers and aerospace companies .
+Digital data links via satellite Modernisation on this scale demands a long-term stepped approach but it promises to boost efficiency , capacity and performance .
+Iris is divided into two phases , in line with Europe 's master plan for managing future air traffic .
+First , the Iris Precursor service will provide air-ground communications for initial 4D flight path control by 2018 , pinpointing an aircraft in four dimensions : latitude , longitude , altitude and time .
+Controlling flight paths with 4D is safer Second , by 2028 , the Iris long-term service will enable full 4D management over airspaces across the globe and the data link will be the primary means of communications between controllers and cockpit crews .
+Controlling flight paths with 4D is safer and more reliable .
+To help achieve this goal , ESA is developing a new global standard for satcoms that can be adopted worldwide , and is designing infrastructure to make this service available in Europe .
+Some airlines already use satellite services To meet safety regulations , aircraft in European airspace fly an extra 42 km on average than they would on an optimal route , incurring unnecessary costs and carbon dioxide emissions .
+4D paths will enable precise tracking of flights and more efficient management of traffic .
+A key benefit of 4D is that it allows rapid rerouting , meaning fewer flight cancellations and delays , and safer air travel - possible partly because all aircraft will be continuously monitored and locations periodically reported to control centres .
+Airlines have accepted the need to switch to digital services , and some satellite services are already in use over ocean airspace .
+The changes will take some time because manufacturing schedules for aircraft are set years in advance .
+Existing planes require modifications to install the new hardware , and affordability requires that costs are kept to a minimum .
+`` This programme will bring essential improvements to the safety of air travel as well as vast economic benefits , '' notes Magali Vaissiere , ESA 's Director of Telecommunications and Integrated Applications .
+`` We can only do it if we join forces , and are ready to tackle this challenge step by step . `` .
+Numerical model for much cleaner aircraft engines A European research consortium intends to develop a numerical model that will allow CO2 emissions of new aircraft engines to be halved and NOx emissions to be reduced by 80 % .
+The project , which started last Friday in Eindhoven , is coordinated by dr.ir .
+Jeroen van Oijen of TU e. The project is called DREAMCODE - Development of Reliable Emission and Atomization Models for COmbustor DEsign .
+It forms part of a larger European project , called CleanSky , aimed at technology breakthroughs to meet more stringent environmental demands .
+Through these projects the EU is bringing the aviation industry and advanced research institutes closer together .
+Acting as coordinator for DREAMCODE , TU e will work together with RWTH Aachen University , the Karlsruhe Institute of Technology , Imperial College London and aircraft engine builder Rolls-Royce in the coming three years on this project .
+The aim is to develop an accurate and reliable numerical model to predict the emissions of new , advanced aircraft engines .
+The model will allow the development of new , environment-friendly engines for commercial aircraft , reducing CO2 emissions by 50 % and NOx emissions by 80 % .
+Associate professor Jeroen van Oijen , from the TU e Combustion Technology group led by professor Philip de Goey , is the project coordinator .
+Each of the research institutes involved has its own specialization in the fields of modeling and combustion - for TU e this is the development of efficient calculation methods for complex chemical processes during combustion , involving tens of thousands of reactions between hundreds of chemical components .
+This demands so much computing power that such a detailed model can not be used in the simulation of a real engine .
+TU e has developed a method to make a simplified chemical model that allows the computations to be carried out without losing too much accuracy .
+The project has a budget of 1.3 million euros , of which 75 percent will be paid by the EU .
+About 5 PhD candidates will be involved in working on the project .
+Penn State , Pratt & Whitney inaugurate most advanced turbine testing lab in U.S UNIVERSITY PARK , Pa. - Penn State and Pratt & Whitney , a United Technologies Corp. company , officially unveiled the Steady Thermal Aero Research Turbine ( START ) facility , the country 's most advanced turbine testing laboratory , at a ribbon-cutting ceremony March 19 at Cato Park .
+The new facility is supported by Pratt & Whitney , the Department of Energy 's National Energy Technology Laboratory and Penn State .
+Penn State President Rodney Erickson ; David Wormley , Harold and Inge Marcus Dean of Engineering ; Karen Thole , head of mechanical and nuclear engineering ; and Al Brockett , Pratt & Whitney 's vice president of engineering module centers , attended the event .
+`` By collaborating with best-in-class research partners such as Penn State , we improve our products and advance the aviation industry while developing the next generation of engineers , scientists and researchers , '' said Brockett .
+`` We are proud to strengthen our partnership with Penn State .
+The University has been a Pratt & Whitney-sponsored Center of Excellence since 2008 . ''
+At the laboratory , researchers will simulate and test a new generation of High Pressure Turbine ( HPT ) systems that will be more fuel efficient than today 's models .
+The lab will evaluate leakage and gas-path flows along with new cooling technologies for next generation gas turbine engine designs , such as those used for aircraft and power generation , to improve fuel efficiency and reduce emissions .
+Thole said that gas turbine engines have rotating and stationary airfoil components that contain gaps at the interfaces in which flow sealing is difficult .
+At these interfaces , she explained , flow may leak into or out of the gaps and ultimately reduce turbine efficiency .
+Because hot combustion gases passing through the turbine can melt the airfoils , it is critical to keep the components cool and ensure the seals do not allow hot gases to pass into the gaps .
+As turbine efficiencies go up , the need for fuel decreases .
+Thole said improving the seal designs to reduce the leakages could mean savings of 25 million barrels of crude oil a year and reduce green house gas emissions by 10 million metric tons per year .
+But , Thole said , existing experimental facilities do not have the ability to evaluate new sealing designs to curb these gap leakage flows .
+`` Current rigs are not able to simulate the rotational speeds and air-flow speeds that engineers need to simulate the complex flows that result in gap leakages between airfoil stages in operating turbines . ''
+The START lab , which will be fully operational in January 2014 , will give researchers the opportunity to simulate and test the next generation of fuel-efficient gas turbine engines while also educating the next generation of turbine engineers .
+It includes a continuously flowing turbine that will operate at realistic engine conditions that have not been possible in any laboratory in the United States .
+Since 1990 , Pratt & Whitney and UTC have sponsored more than $ 14.5 million in research across the University , including projects at the Applied Research Laboratory , Materials Research Institute , architectural engineering department , aerospace engineering department , industrial and manufacturing engineering department , and mechanical and nuclear engineering department.. FlySafe adds new dimension to safe flying 15 January 2013 Migrating birds fly as long as it takes to get to their destination , no matter what obstacles are in their way .
+When that obstacle is an aircraft , the results can be deadly .
+According to the US Federal Aviation Administration , bird strikes have killed more than 231 people and destroyed over 220 aircraft worldwide since 1988 .
+Satellites are helping to change this deadly scene .
+In 2007 , ESA began the FlySafe project in partnership with the Dutch , Belgian , French and German Air Forces and in cooperation with industry and research institutes from several European countries .
+FlySafe showed how combining weather and environmental data from Earth-observing satellites and tracking of individual birds from space with local migration information from ground radars can improve national bird-warning systems .
+Satcoms relay data in areas where terrestrial means are unavailable , as well as helping to track individual birds via GPS tags .
+Ground radars include weather radars , surveillance radars and short-range local radar systems equipped with technology developed by Robin Radar Systems .
+US Airways flight 1549 ended in the Hudson River after geese were ingested into the engines .
+US Airways flight falls victim to bird strike The Dutch company started selling the technology developed under FlySafe as an operational bird-warning service in 2010 to customers in Belgium , Bulgaria , Estonia , Netherlands , Norway , Poland , Spain and Turkey , including the Dutch and Belgian Air Forces .
+Since then , the company has expanded its workforce fourfold and increased its revenues by more than 25 % every six months .
+`` Air forces use the system in combination with their surveillance radars for en route bird strike prevention , during low-flying exercises , for example , '' explains company CEO Siete Hamminga .
+`` With their long-range detection , these systems can scan hundreds of kilometres around .
+When a bird strike risk through high migration densities is identified , it is relatively easy for air forces to postpone flights or bring them in .
+`` In civil aviation , bird radar will ultimately be able to support realtime decision-making and automated deterrence .
+`` For example , through integration with realtime air traffic operations , systems could be used to provide risk assessments to pilots , who can then choose the safest runway or approach route . ''
+Recently , Robin secured significant funding from two key investors , Inkef Capital and Mainport Innovation Fund , which includes KLM and Schiphol Airport in the Netherlands .
+`` ESA has made a significant contribution to the rise of Robin , '' says Siete .
+`` This is the explosive mixture you get when combining applied science with entrepreneurship .
+We are now ready to take Robin to the next level . ''
+Bird monitoring is increasingly important to the wind energy sector because it seeks to reduce the environmental effect of wind farms on bird populations .
+Dedicated avian radars help to pinpoint the location and direction of flocks flying close to proposed and operational wind farms .
+`` The successful operational outcome of the FlySafe project has proven that ESA 's Integrated Applications Promotion Programme can play a fascinating role in bringing together user interests and communities , '' says Amnon Ginati , leader of the programme .
+`` ESA uses a win-win approach that promotes the added value of space in a fair and unbiased way , and supports the development of sustainable space-based services for the benefit of society . ''
+To catch a poacher : GIS , drones can improve elephant conservation UNIVERSITY PARK , Pa. -- Applying a suite of geographical information system ( GIS ) tools can improve monitoring for elephant poaching , according to Penn State researchers .
+Investigating Tsavo , a region in southwest Kenya that is home to that country 's largest elephant population , the researchers tried to identify methods that local conservation groups could use to reduce poaching .
+They sought to understand geographic similarities among elephant poaching locations , analyzing the geographic features of 156 known locations occurring in the 8,150-square-mile area in the Tsavo region .
+Nearly 69 percent of poaching instances occurred within 1.5 miles from a road and 62 percent occurred within 2.5 miles from lakes , rivers or other water features , the researchers reported in the current issue of Tropical Conservation Science .
+`` We know that elephants need water , and it makes sense that poachers would exploit that by looking for elephants in those areas , '' said Michael Shaffer , who conducted this research while a student in the master of geographic information systems program taught through Penn State World Campus .
+He graduated and is now an engineering assistant for a water district in Southern California .
+`` At the same time , poachers need roads for quick access into and out of elephant habitats .
+These locations seemed intuitive , but we were trying to confirm how statistically important they were . ''
+Finding high-risk poaching areas was critical , the researchers said , as recent studies show that conservation efforts focused on high-value areas are more effective than patrolling the entirety of vast habitat regions .
+Elephants routinely travel 20 to 40 miles in a day , making their habitat one of the largest for terrestrial mammals .
+To monitor the region , the researchers proposed that conservation groups employ the use of unmanned aerial vehicles -- drones .
+They found that more than 85 percent of poaching incidents occurred in areas of open , low shrub or savannah areas , and these areas could be monitored with drones .
+`` The idea of using a drone in an area where it 's challenging to do conservation work is coming up more and more because , in the case of Africa , where you 've got multiple large animals that move long distances day to day , the idea of trying to monitor them and protect them is daunting , '' said Joseph Bishop , instructor , John A. Dutton e-Education Institute , Penn State .
+`` Using drones does n't cost as much as using a helicopter , and it also keeps people out of danger from being attacked by poachers . ''
+After completing their habitat analysis , Shaffer and Bishop identified high-risk areas for poaching throughout the region and made recommendations for locations of surveillance or guard stations , which would help conservation agencies optimize their efforts .
+Then , the researchers created efficient flight paths for drones , starting at locations with the highest potential poaching risk .
+`` Using basic GIS , we wanted to help conservation planners model areas of coverage that drones with different types of cameras could effectively monitor .
+We identified the time required to cover areas for each drone in order to help people choose the correct equipment for regions they need to monitor , '' said Shaffer .
+Though this study focused on the Tsavo region , the researchers said these techniques could be applied to other geographic regions as well .
+`` We were pairing a habitat model for elephants with likely access points for poachers , taking into consideration the starting point for ground patrols and rangers who would need to respond if alerted to poaching , '' said Bishop .
+`` Every land area has its own challenge , but this same basic approach can be used virtually anywhere . ''
+Preparing for air traffic control via satellite ESA recently completed its first flight trials using satellites to help bring Europe closer to its goal of modernising air traffic control .
+The trials are part of the public-private partnership between ESA and UK satellite operator Inmarsat to deliver high-capacity secure digital data links via satellite for air-ground communications for cockpit crews over European airspace under ESA 's Iris Precursor programme .
+By 2019 , Iris Precursor will provide air-ground communications for initial '4D ' flight path control , pinpointing an aircraft in four dimensions : latitude , longitude , altitude and time .
+This will enable precise tracking of flights and more efficient management of traffic .
+An aircraft from the Netherlands Aerospace Centre carried a prototype Iris terminal connected to Inmarsat 's next-generation SwiftBroadband-Safety satellite service as it took off from Amsterdam .
+During four flights to different destinations in Europe , the connection between the aircraft and ground networks was tested extensively and air traffic control messages were exchanged .
+The connection was maintained even when the aircraft switched satellite beams .
+Captain Mary McMillan , Inmarsat 's Vice President of Aviation Safety and Operational Services , said : `` As air traffic volume continues to increase , the digitisation of the cockpit is one of the ways to alleviate current congestion on traditional radio frequencies and optimise European airspace .
+`` Using the power and security of satellite connectivity through Iris clearly changes the game in comparison to the ground technology in use today . ''
+These flight trials complement a separate test flight by Airbus with Inmarsat and other partners in March this year , providing initial 4D flight path control and data link communication exchanges between the pilot and air traffic control .
+At the end of next year , Inmarsat plans a second phase of flight trials to validate the Iris technology .
+The next step is to use Iris on commercial flights in a real air traffic management environment .
+`` ESA 's Iris programme is forging ahead as part of Europe 's long-term goal to modernise air traffic control .
+A stepped approach and good collaboration between public and private partners is bringing excellent results , '' commented Magali Vaissiere , Director of Telecommunications and Integrated Applications at ESA .
+Iris is part ESA 's collaboration with the Single European Sky effort of the European Commission , Eurocontrol , airport operators , air navigation providers and aerospace companies in a push to boost efficiency , capacity and performance of air traffic management worldwide .
+F-35 Weapons Tests in 2014 Focus on Amraam With weapons testing becoming a more regular event for the F-35 program , developers are looking ahead to a fast pace of trials this year to prepare for the first operational use of the stealthy , single-engine fighter by the U.S. Marine Corps in 2015 .
+Delivering weapons is often described as the `` business end '' of a fighter 's job , and the Marines are planning to declare initial operational capability ( IOC ) for the F-35B using the aircraft 's 2B software release as early as July 2015 , and no later than December 2015 , the service hopes .
+Though limited to use of three weapons-the 1,000-lb .
+GBU-32 Joint Direct Attack Munition ( JDAM ) , GBU-12 500-lb .
+Laser-Guided Bomb and Advanced Medium-Range Air-to-Air Missile ( Amraam ) AIM-120 series-the F-35B will surpass the current capability of the AV-8B Harrier jump jet and F A-18C twin-engine Hornets , says Lt. Gen. Robert Schmidle , commandant for Marine Corps aviation .
+Lockheed Martin Announces 'Centennial Flight Contest ' For 2012 Farnborough International Airshow BETHESDA , Md , June 12 , 2012 - Lockheed Martin Corporation [ NYSE : LMT ] today announced a Centennial Flight Contest to be held in conjunction with the 2012 Farnborough International Airshow .
+The contest invites Lockheed Martin 's Twitter and Facebook followers to share personal stories related to aviation history for a chance to claim a seat aboard a historic Lockheed Super Constellation flight at Farnborough , United Kingdom , on Tuesday , July 10 .
+The flight of the Breitling-sponsored Super Constellation is part of the celebration of Lockheed Martin 's 100th anniversary .
+The aircraft also will be on static display and can be visited at Farnborough for the duration of the airshow , which runs July 9-15 , 2012 .
+To enter the contest , individuals must submit a brief essay ( 250 words or less ) and photo that convey how aviation history influenced their path to becoming an aviation enthusiast , or `` AvGeek . ''
+Submissions will be accepted at www.lockheedmartin.com connie-contest from June 11 , 2012 through June 18 , 2012 .
+Five winners will be selected from among the entries by a panel of judges consisting of Lockheed Martin employees and at least one independent judge .
+`` 1912 was a momentous year , with Glenn L. Martin and the Lockheed Brothers founding companies that changed the course of aviation history .
+To mark our 100th anniversary , we 're looking at the innovations and achievements that helped our customers rise to some of the world 's most vital challenges , '' said Lockheed Martin Chairman and CEO Bob Stevens .
+`` The Constellation embodies that heritage of innovation and exploration , and has served as an inspiration for the aviation community , '' added Stevens .
+`` We 're thrilled to share this special moment of celebration with aviation enthusiasts at Farnborough this year . ''
+The Super Constellation is a heritage Lockheed Martin aircraft , based on the Model 049 Constellation that the Lockheed Company built in the 1940s for military and commercial purposes .
+The Constellation 's high speed , reliable performance , passenger appeal , and economic operation made it an industry workhorse for long distance commercial flight routes .
+The Constellation , affectionately known as the `` Connie , '' was also the first plane designated Air Force One .
+Lockheed Martin is commemorating its Centennial with special events , stories from its history and community service projects , culminating at the Paris Airshow next June .
+For more information , please visit : www.lockheedmartin.com 100years .
+Headquartered in Bethesda , Md. , Lockheed Martin is a global security and aerospace company that employs about 123,000 people worldwide and is principally engaged in the research , design , development , manufacture , integration and sustainment of advanced technology systems , products and services .
+The Corporation 's net sales for 2011 were $ 46.5 billion .
+Gripen Multirole Fighter Aircraft , Sweden The Gripen multirole fighter aircraft , developed by Saab , was first flown in December 1988 and entered operational service with the Swedish Air Force in 1997 .
+It is planned that the Gripen will replace all current variants of the Viggen and Draken combat aircraft .
+Gripen has been developed by an industrial consortium consisting of Saab , Saab Microwave Systems ( formerly Ericsson ) , Volvo Aero Corporation , Saab Avitronics and FFV Aerotech .
+A joint venture company , Gripen International , has been set up by Saab and BAE Systems to market the Gripen for export markets .
+BAE Systems is building the main landing gear unit and wing attachment unit .
+The Gripen demo aircraft achieved a supersonic speed level of above Mach 1.2 in January 2009 without using an afterburner , thus proving its higher range and fuel-savings advantages .
+JAS 39A is the single-seater version of the Gripen .
+A two-seater JAS 39B operational trainer variant of Gripen is available .
+The JAS 39B is equipped with the same avionics and weapons suite as the JAS 39A , with the exception of the gun .
+JAS 39C is the single seat batch 3 and export standard version , which was first delivered to the Swedish Air Force in September 2002 .
+JAS 39C has colour cockpit displays , an on-board oxygen generation system ( OBOGS ) and in-flight refuelling capabilty .
+JAS 39D is upgraded similarly to the JAS 39C but is a two seater variant .
+Gripen NG next-generation upgrade programme A new version of the Gripen aircraft , the Gripen next generation ( NG ) , has also been developed by Saab .
+The Gripen NG comes with several attractive features including its full interoperability with Nato , high operational tempo , a fully digital cockpit with advanced features , network connectivity with multifrequency datalink and a modern avionic mission system .
+In October 2007 , the Swedish government placed a contract with Saab for a Gripen demonstrator programme to develop an upgraded version of the JAS 39C .
+Saab has selected the GE Aviation Volvo Aero F414G engine to power the demonstrator .
+The F414G has 96kN ( 22,000lb ) thrust and will be fitted with full authority digital electronic control ( FADEC ) .
+Saab Microwave Systems and Thales are developing an active electronically scanned radar ( AESA ) for the programme .
+The demonstrator , also known as Gripen NG , will be a flying testbed for further development of the Gripen and made its first flight in May 2008 .
+Saab and Selex Galileo reached an initial agreement for the AESA in March 2009 .
+With high operational tempo , agility , improved sensor fusion and fully digital cockpit , the new generation aircraft will be a fully Nato interoperable multirole fighter designed for the future net-centric warfare ( NCW ) environment , Saab claims .
+In September 2007 , the Swedish Government approved the upgrade of 31 JAS 39A aircraft to the JAS 39C D configuration .
+The upgraded aircraft successfully completed its first flight in February 2009 .
+The Gripen next generation fighter aircraft made its first international debut in July 2010 at Farnborough International Air Show held in UK .
+Gripen NG has significantly increased combat range and endurance , increased payload and super-cruise capability .
+Saab has offered Gripen IN , an Indian version of the Gripen NG , to the Indian Air Force .
+The offer was made in April 2008 in response to the proposal made by the Indian Ministry of Defence for 126 medium multirole combat aircraft .
+The company has also submitted a proposal to the Brazilian Air Force for 36 Gripen NG aircraft .
+Saab plans to manufacture these aircraft in Brazil , if it wins the contract .
+Gripen IN Indian Air Force Medium Multi-Role Combat Aircraft ( MMRCA ) The JAS 39 Gripen was submitted by Saab for the Indian Air Force Medium Multi-Role Combat Aircraft ( MMRCA ) , competing against the F A-18E F Super Hornet , Rafale , Europfighter Typhoon , F-16 and MiG-35 for India 's largest ever defence deal at $ 16.36bn .
+After showcasing the aircraft at the Aero India show Saab launched its collaborative aeronautical partnership project 'Aeronautical Design and Development Centre ' with the India-based TATA Consultancy Services ( TCS ) .
+The design centre 's first contract is to take part in the future design and development of the Gripen .
+The competition was awarded to the Rafale in 2012 .
+Gripen international orders In November 1998 , the South African Air Force ordered 28 Gripen multi-role aircraft ( 19 single-seat and nine dual-seat ) .
+Denel Aviation of South Africa will produce part of the centre fuselage .
+The first flight was in November 2005 and deliveries began in April 2008 and will conclude in 2012 .
+Four aircraft were officially handed over to the SAAF in September 2008 .
+The fifth aircraft was delivered in November 2008 .
+In November 2001 , Hungary signed a memorandum of understanding for the lease of 14 aircraft - 12 JAS 39A single-seat and two JAS 39B .
+In February 2003 , Sweden and Hungary signed an amendment to the lease contract and both the single-seated and the twin-seated aircraft were upgraded to C and D standard .
+The amendment also stated that Hungary will purchase the aircraft after the lease period .
+The first five were delivered in March 2006 and deliveries concluded in December 2007 .
+In June 2004 , the Czech Republic signed a leasing agreement with the Swedish Government for 14 new Gripen ( 12 single-seat JAS 39C and two two-seat JAS 39D ) for a period of ten years .
+The aircraft were delivered between April and August 2005 .
+In October 2007 , Thailand selected the Gripen , with a requirement for 12 aircraft to replace F-5B E fighters .
+An agreement to buy the first six Gripen ( four 39C and two 39D aircraft was signed in February 2008 .
+The Thai Government approved the remaining six Gripens in February 2009 .
+The aircraft are to be delivered in 2011 .
+In August 2010 , Thai Government released THB170bn ( $ 5.4bn ) from the 2011 fiscal year defence budget to purchase a second Gripen batch for the Royal Thai Air Force ( RTAF ) .
+Saab will provide product maintenance , technical support to Gripen as part of the Skr230m ( $ 29m ) contract awarded by Sweden in June 2010 .
+As part of the contract , it will also offer basic operations which include test flying , rigs and simulators .
+Work will be carried out from the second half of 2010 .
+Saab will develop an advanced avionics systems for the Swedish Armed Forces ' Gripen fighter aircraft as part of the two year Skr450m ( $ 56m ) contract awarded in May 2010 .
+The avionics system will include computer systems and displays .
+The first aircraft upgraded with new avionics system will enter into service in 2020 .
+Bulgarian Air Force is being offered to buy Gripen fighter jets at the price of second-hand US F-16 planes in April 2010 .
+Bulgaria unveiled a decision to buy new multipurpose fighter jets rather than second-hand ones .
+The government , however , has not made final decision on the acquisition .
+Saab group was awarded a four year contract worth Skr2bn ( $ 280m ) by Swedish Air Force in March 2010 for upgrading the countermeasures and communication systems of the Gripen .
+The upgrade will also encompass incorporation of advanced weapons and new improved radar systems with increased range to its entire fleet .
+Swedish Defence Material Administration awarded SEK 600m worth contract to Saab on 30 March 2010 for providing continuous maintenance services to Gripen .
+The maintenance will be carried out during 2010 and 2011 .
+Gripen cockpit The cockpit is equipped with a Saab Avitronics EP-17 electronic display suite , with three multifunction displays and a wide-angle , 22x28 degree diffraction head-up display .
+The central head-down display provides tactical data superimposed on a computer-generated map .
+The displays on the left and right provide the flight data and the target data from the sensor suites .
+`` It is planned that the Gripen multi-role fighter aircraft will replace all current variants of the Viggen and Draken combat aircraft . ''
+BAE Systems and Saab Aerospace , with Denel Cumulus of South Africa , have developed an integrated helmet-mounted display ( IHMD ) system for the Gripen , known as Cobra .
+The IHMD is a development of the Striker helmet developed for the Eurofighter Typhoon .
+Cobra is fitted on the Gripen for South Africa .
+The Swedish Air Force also placed an order for the system in October 2007 .
+The time-critical systems controls ( for example , weapons and communications ) are grouped on the throttle and control stick for hands-on throttle and stick ( HOTAS ) operation .
+The flight control system is a triplex digital fly-by-wire system from BAE Astronics and Lockheed Martin .
+Fighter aircraft weapons The Gripen has seven external hardpoints for carrying payloads : one at each wingtip , two under each wing and one on the fuselage centreline .
+The air-to-air missiles include MBDA ( formerly Matra BAe Dynamics ) MICA , Raytheon AIM-120B AMRAAM and Lockheed Martin Raytheon Sidewinder AIM-9L ( Swedish Air Force Designation RB74 ) .
+Sidewinder , mounted on the wingtips , is an all-aspect attack , short-range missile for enhanced dogfight capability .
+Air-to-surface missiles include the radar-guided Saab RBS15F anti-ship missile and Raytheon Maverick missile .
+In July 2008 , the Hungarian Air Force 's Gripen fighters successfully test fired Sidewinder air-to-air missile .
+Later versions of the aircraft for Sweden will be armed with the short-range Diehl BGT Defence IRIS-T air-to-air missile and the MBDA Meteor beyond visual range ( BVR ) air-to-air missile .
+Deliveries of IRIS-T began in December 2005 .
+The Swedish Defence Material Administration awarded an Skr312m ( $ 42m ) contract to Saab in September 2010 for incorporating the active radar guided beyond visual range ( BVR ) missile , meteor as well as radar and displays on Gripen Fighters .
+Saab will execute test flight and test firing as part of the contract .
+The aircraft will also be equipped with support and maintenance systems such as simulators and planning computers .
+The Saab Bofors MBDA Taurus KEPD 350 long-range stand-off missile , with a range of 350km , has been successfully flight tested on the Gripen .
+In May 2008 , South Africa placed an order for the IRIS-T air-to-air missile to equip its Gripen fleet until the indigenous Denel A Darter missile enters service .
+The internally mounted 27mm Mauser high-energy gun can operate in an automatic radar-guided aiming mode .
+The stand-off dispenser is the DWF39 from EADS ( formerly DaimlerChrysler Aerospace ) and Bofors .
+The Bofors ARAK 70 rocket pod is cleared for carriage on the Gripen .
+Countermeasures suite Saab Avitronics is responsible for the EWS 39 electronic warfare suite , which has been ordered by the Swedish Air Force .
+EWS 39 is an integrated EW system that provides radar warning , electronic support measures and chaff and flare decoy dispensers .
+Gripen sensors The Ericsson PS-05 long-range multi-purpose pulse Doppler radar has air-to air operating modes covering long-range search , multi-target track-while-scan , multiple priority target tracking , air combat quick search modes , raid assessment and beyond visual range ( BVR ) missile mid-course updates .
+The air-to-surface modes include long-range search target identification , multiple priority target tracking , high-resolution , real beam mapping , air-to-surface ranging and Doppler beam sharpening ( DBS ) .
+The aircraft is equipped with a forward-looking infrared ( FLIR ) sensor and will have the Saab IR-Otis infrared search and track system ( IRST ) .
+Nine Swedish Air Force Gripens have been fitted with the Saab Avitronics modular reconnaissance pod , which includes a recon optical CA270 infrared sensor .
+The system entered service in 2006 .
+Swedish Defence Material Administration awarded a four year SEK 400m contract to Saab in April 2010 for developing modular reconnaissance pod system ( MRPS ) which will be fitted in the Gripen fighter aircraft .
+Saab awarded a Skr55m ( $ 7.4m ) sub-contract to Terma in August 2010 for upgrading and manufacturing new modular reconnaissance pod system ( MRPS ) for the Swedish Air Force 's Gripen fighter aircraft .
+Software and equipment required for the reconnaissance pod system upgrade programme will be supplied by Terma as part of the contract .
+`` The Swedish Air Force has ordered 204 Gripen ( including 28 of the two-seater version ) for two operational squadrons . ''
+Communications The aircraft has VHF UHF transmitters and receivers from Saab Avitronics , and a Thales TSC 2000 identification friend or foe ( IFF ) system .
+An air-to-air data link allows real-time exchange of tactical data within and between cooperating air units .
+In the attack and reconnaissance role , the data link allows radar-derived surface data to be transferred from one Gripen to a group of radar-silent attacking aircraft .
+Engine The RM12 engine , supplied by Volvo Aero , is a development of the GE F404 engine from General Electric .
+A digital engine control system automatically monitors the engine parameters and switches on the back-up systems if required .
+A condition monitoring system registers the flight data .
+The air-to-air refuelling probe is retracted into the aircraft to retain the aerodynamic profile .
+The longer flight times achieved by using air-to-air refuelling results in the pilot needing a larger oxygen supply , so an on-board oxygen generating system ( OBOGS ) has been installed .
+Performance The Gripen can fly at a maximum speed of 2,470km h. The combat radius and ferry range of the aircraft are 800km and 3,200km respectively .
+Its service ceiling is 15,240m .
+The aircraft weighs around 5,700kg and its maximum take-off weight is 14,000kg.. Acoustics professor Vic Sparrow to deliver lecture at international conference America will embark seven F-35Bs -- two are scheduled to begin the third shipboard phase of developmental test ( DT-III ) and five are scheduled to conduct operational testing .
+America , the first ship of its class , is an aviation-centric platform that incorporates key design elements to accommodate the fifth-generation fighter .
+The ship 's design features several aviation capabilities enhanced beyond previous amphibious assault ships which include an enlarged hangar deck , realignment and expansion of the aviation maintenance facilities , a significant increase in available stowage of parts and equipment , as well as increased aviation fuel capacity .
+America is capable of accommodating F-35Bs , MV-22B Osprey tiltrotor aircraft , and a complement of Navy and Marine Corps helicopters .
+The third test phase will evaluate F-35B Short Take-off Vertical Landing ( STOVL ) operations in a high-sea state , shipboard landings , and night operations .
+The cadre of flight test pilots , engineers , maintainers , and support personnel from the F-35 Patuxent River Integrated Test Force ( ITF ) are assigned to Air Test & Evaluation Squadron ( VX ) 23 at Naval Air Station Patuxent River , Maryland .
+`` It 's exciting to start the execution phase of our detachment with VMX-1 ( Marine Operational Test and Evaluation Squadron 1 ) on USS America , '' said Lt. Col. Tom `` Sally '' Fields , F-35 Patuxent River ITF Government Flight Test director assigned to VX-23 .
+`` During the next three weeks , we will be completing critical flight test for both Developmental Test ( DT ) and Operational Test ( OT ) .
+The F-35 Pax River ITF and VX-23 will be conducting DT work that will establish the boundaries of safe operation for the F-35B in the 3F configuration .
+VMX-1 will be conducting OT operations focused on preparing maintenance crews and pilots for the first deployment of the F-35B aboard USS Wasp ( LHD 1 ) , scheduled to start in just over a year . ''
+The operational testing will also include simulating extensive maintenance aboard a ship , said Col. George Rowell , commanding officer of VMX-1 , based at Marine Corps Air Station Yuma , Arizona .
+Rowell stated one of the VMX jets on board will be placed in the hangar bay , taken apart , and put together again , just to make sure everything goes well .
+The maintenance work will include the replacement of a lift fan , the specialized equipment made by Rolls Royce and Pratt and Whitney that gives the F-35B variant its short take-off , `` jump jet '' capability , Rowell said .
+The Marine Corps variant of the F-35 Lightning II reached the fleet first , with the service declaring initial operational capability July 2015 .
+`` The F-35 Lightning II is the most versatile , agile , and technologically-advanced aircraft in the skies today , enabling our Corps to be the nation 's force in readiness -- regardless of the threat , and regardless of the location of the battle , '' said Lt. Gen. Jon Davis , deputy commandant for aviation , Marine Corps .
+`` As we modernize our fixed-wing aviation assets for the future , the continued development and fielding of the short take-off and vertical landing , the F-35B remains the centerpiece of this effort . ''
+`` The America class of amphibious assault ship design enables it to carry a larger and more diverse complement of aircraft , including the tiltrotor MV-22 Osprey , the new F-35 Lightning II , and a mix of cargo and assault helicopters , '' added Davis .
+`` America is able to support a wide spectrum of military operations and missions , including putting Marines ashore for combat operations , launching air strikes , keeping sea lanes free and open for the movement of global commerce , and delivering humanitarian aid following a natural disaster . `` .
+Shhh !
+Top-Secret Reconnaissance Drone Could Make Air Force Debut in 2015 A secret , new surveillance drone has been developed by defense giant Northrop Grumman .
+The drone , which is designed to conduct surveillance and reconnaissance missions , could enter operational service in the U.S. Air Force by 2015 , according to news reports .
+The classified drone , dubbed RQ-180 , is being tested at Area 51 , a clandestine military base in the Nevada desert that has famously been used to test different spy planes since the 1950s .
+Northrop , headquartered in Falls Church , Va. , and the Air Force have been reticent to talk about the project , but the existence of the RQ-180 was first revealed in a report last week by Aviation Week .
+`` The Air Force does not discuss this program , '' Air Force spokesperson Jennifer Cassidy told Aviation Week .
+The RQ-180 drone will likely be used for intelligence-gathering , surveillance and reconnaissance missions .
+The vehicle , which is equipped with radars , radio-frequency sensors and surveillance instruments , could also be used to carry out electronic warfare , an unnamed defense official told Aviation Week .
+[ 9 Totally Cool Uses for Drones ] The new drone is a larger , more advanced version of the Air Force 's RQ-170 Sentinel , which was built by Lockheed Martin Corp .
+The RQ-170 , which has been in service since 2007 , was used to carry out several high-profile clandestine missions , including the 2011 raid on Osama bin Laden 's compound in Abbottabad , Pakistan , that killed the al-Qaida leader .
+Aviation Week combed through Northrop Grumman 's corporate financial statements and publicly available satellite images for clues about the new RQ-180 drone .
+Overhead photos showed new hangars were built at Northrop 's plant in Palmdale , Calif. , to accommodate aircraft with wingspans of more than 130 feet ( 40 meters ) , according to the trade magazine .
+For comparison , the RQ-170 Sentinel 's wingspan is estimated to be between 65 feet and 90 feet ( 20 m and 27 m ) .
+But Lockheed appears to be embracing the robust competition in the field of drone technology .
+Last month , the Bethesda , Md.-based aerospace company announced that it plans to develop an unmanned , hypersonic spy plane capable of flying up to six times faster than the speed of sound .
+The so-called SR-72 will be able to travel at speeds of more than 3,500 mph ( 5,600 km h ) , and will be able to fly to any location within an hour , company officials said..
+US approves drone flights for insurer AIG nsurance giant American International Group Wednesday announced that it had won US government approval to use drones to survey disaster areas , including territory that may be otherwise inaccessible .
+The Federal Aviation Administration granted AIG the ability to use small unmanned aerial vehicles , or drones , to conduct inspections , the insurer said in a statement .
+Drones `` can help accelerate surveys of disaster areas with high-resolution images for faster claims handling , risk assessment , and payments , '' AIG said .
+The technology also allows a view on areas `` that could be dangerous or inaccessible for manual inspection , '' AIG added .
+The US aviation agency also permitted AIG to undertake further research to study additional uses of drones .
+AIG noted that it already has an international research and development program and conducted flights in New Zealand .
+The FAA 's approval for AIG follows its green light in March for online retailer Amazon to test its drone program .
+Amazon , which hopes to develop a delivery system that could dispatch small packages in less than 30 minutes , has criticized US officials for being slow to adopt rules for drone use compared with officials in other countries .
+Now Arriving : Modernized Technology `` Backbone '' of National Airspace System Enhances Safety and Efficiency in Flight Rockville , Md. , April 30 , 2015 - The En Route Automation Modernization ( ERAM ) system , a key piece of the infrastructure for the Federal Aviation Administration 's ( FAA ) Next Generation Air Transportation System ( NextGen ) , is now in place , providing technology that will increase capacity , improve efficiency and enhance the cornerstone of the FAA 's mission-air safety .
+Lockheed Martin [ NYSE : LMT ] worked closely with the FAA to develop and deliver the ERAM system nationwide , replacing the 40-year-old computer system used to control aircraft flying at high altitudes .
+`` Lockheed Martin has supported the FAA for more than 50 years , and we are proud of the collaborative effort in delivering ERAM to all 20 Air Route Traffic Control Centers in the contiguous U.S. , '' said Stephanie C. Hill , vice president and general manager of Lockheed Martin 's Information Systems & Global Solutions Civil line of business .
+`` The ERAM platform provides the foundation for NextGen capabilities , which will benefit passengers , air traffic controllers , airlines and other users of the aviation system . ''
+isgs-ERAM Infographic 2-02 Among key ERAM technologies is an end-to-end , 4-D trajectory model that predicts the path of each aircraft in time and space .
+It allows flight operations to supplement today 's ground-based radars with more accurate satellite-based automatic dependent surveillance broadcast ( ADS-B ) technology , which allows for increased capacity and safety for aircraft that were previously not covered by radar surveillance .
+In short , aircraft can fly more efficient routes , helping airlines achieve business goals and travelers reach their destinations sooner .
+Other key advancements include : Greater capacity .
+Controllers at each Air Route Traffic Control Center will be able to track an additional 800 aircraft , for a total of 1,900 aircraft at one time .
+Wider field of vision .
+Automated tools help controllers detect potential conflicts and resolve them optimally .
+With ERAM , controllers see a bigger picture , beyond their area of responsibility , and choose the safest , most fuel-efficient outcomes .
+Introduction of NextGen technologies .
+ERAM technology enables NextGen initiatives , which yield airline efficiencies and support re-routes in response to weather conditions or other airspace constraints .
+Ground-Based Interval Management-Spacing uses ADS-B to precisely space aircraft entering airspace surrounding a major airport , streamlining traffic flow and decreasing delays .
+Pre-departure reroute and airborne reroute capabilities automatically transmit re-routing information from the traffic manager to the pilot and dispatcher , simplifying the process and giving passengers smoother flights .
+Headquartered in Bethesda , Maryland , Lockheed Martin is a global security and aerospace company that employs approximately 112,000 people worldwide and is principally engaged in the research , design , development , manufacture , integration and sustainment of advanced technology systems , products and services .
+The Corporation 's net sales for 2014 were $ 45.6 billion.. F-35s And F-16s Go Dutch Royal Netherlands Air Force ( RNLAF ) F-35s and F-16s have been practicing joint operations from Edwards Air Force Base in California over the last two weeks .
+The training is part of the F-35 's operational test and evaluation phase , together with the UK and U.S. , in what RNLAF F-35 pilot Maj. Pascal Smaal ( `` Smiley '' ) describes in his blog as `` a mini-Red Flag '' .
+Dutch participation consists of two F-35s , six F-16s and a KDC-10 tanker .
+Participants practiced air defense against A-4 Skyhawk `` opponents '' , ground attack and air-to-air refueling .
+Smaal writes that the F-35 's automatic throttle makes it easier to conduct air-to-air refueling than with the F-16 .
+He adds that he shared data with RNLAF F-16s and the KDC-10 through Link 16 and that the F-35 is so easy to fly that more `` brainbytes '' are available for using his sensors , which `` see much more further away . `` .
+Airline Global-Warming Battle Heats Up Fast The aviation industry 's part in the battle over global warming is heating up fast .
+Pilloried as a high-profile generator of greenhouse gases , commercial aviation is increasingly being targeted by legislators on both sides of the Atlantic for mandatory carbon-trading schemes and limits on aircraft emissions -- even though airlines say they are already dramatically cutting emissions and painting their operations green .
+The need to reduce aircraft emissions is gaining a sense of urgency as the sheer volume of air travel overwhelms gains in cleaner , quieter aircraft .
+Although modern aircraft are much more eco-friendly than their predecessors , the number of airliners in the sky is growing constantly .
+While commercial aviation accounts for just 2 percent of global carbon emissions , that percentage will grow to 3 percent in coming years , according to number-crunchers at the International Air Transport Association .
+Last month , the European Parliament voted to impose a cap-and-trade scheme on airlines flying to the European Union , starting in 2011 .
+The proposal is bitterly opposed by the United States ; the Bush administration regards mandatory limits as violations of international treaties and champions market-driven solutions to global warming .
+State and Senate initiatives Nevertheless , on Wednesday , five states and several non-governmental organizations filed a petition with the Environmental Protection Agency , asking the EPA to impose reductions on aircraft emissions .
+That same day , the Senate agreed to consider a bill sponsored by Senators Joseph Lieberman and John Warner that would impose a schedule for cutting U.S. aircraft emissions -- part of a much broader bill to reduce American greenhouse gases .
+None of these proposals has yet become law , and perhaps none will .
+But all point in the same direction : toward greater scrutiny of aviation , especially in Europe , where consumers , regulators and airlines themselves have taken the lead on climate-change issues .
+`` Europeans are definitely spinning out a lot more policies than we are in the U.S. , '' said Nancy Young , vice president for environmental affairs at the Air Transport Association , the U.S. airline trade group .
+`` We have this voluntary approach in the U.S. right now ; they have a mandatory approach in Europe .
+The focus on aviation in Europe has gotten out of proportion . ''
+U.S. airlines say they do care Young said the perception that U.S. carriers do n't care about cleaning up their environmental act is simply untrue .
+`` Our airlines improved fuel efficiency 103 percent from 1978 to 2006 .
+Fuel burn is directly related to carbon dioxide , the leading greenhouse gas .
+To have that kind of achievement -- it did n't just happen , '' said Young .
+She added that U.S. carriers continue to improve performance by attaching winglets to make aircraft more aerodynamic , removing weight from planes , researching alternative fuels and buying more-efficient new aircraft .
+U.S. carriers , which suffered $ 40 billion in losses from 2001 to 2005 , and have only fitfully returned to profit , operate aging fleets .
+By contrast , Lufthansa , the profitable German carrier , will spend $ 12 billion for new aircraft over the next several years , according to Karlheinz Haag , Lufthansa 's head of environmental issues .
+More-efficient aircraft burn less fuel -- an important edge when the price of a barrel of crude oil is pushing $ 100 .
+`` Only an economically strong company can invest in sustainability , '' said Haag .
+Innovation trumps regulation , airlines argue Airlines and their trade associations argue that innovation trumps regulation when it comes to going green .
+The International Air Transport Association ( IATA ) , a trade group for 270 of the world 's airlines , holds that building more-efficient aircraft , integrating Europe 's 20-odd national air traffic control systems into a streamlined `` single European sky '' and adoption by the U.S. of a GPS-based `` next generation '' air traffic control system to replace the present outmoded radar-based system are essential for improving aviation 's environmental record .
+IATA opposes the EU plan to impose a trading emission scheme , said Steve Lott , a spokesman for IATA in Washington , D.C. `` If we are going to have emissions trading , the system must be global .
+One region or one country ca n't solve the problem .
+We 're working through the International Civil Aviation Organization to come up with a global balance . ''
+In the absence of global standards , individual airlines are trying out a variety of ideas , from landing their aircraft differently to allowing passengers to purchase carbon offsets .
+Continuous-descent approaches Scandinavian Airlines System has been experimenting with a program called continuous-descent approaches -- basically , continually reducing power on aircraft as they descend to land .
+The European carrier has operated 2,000 `` green '' landings in Stockholm the last few years , according to SAS spokesman Tom Fredo , who said the method can save up to 5 percent of an aircraft 's fuel , thus reducing carbon emissions and cutting expenses .
+Last year SAS followed British Airways in allowing passengers to calculate the amount of carbon produced by their flights and funnel donations to a third-party company to fund green projects such as tree-planting .
+BA , which launched the voluntary program on its web site in late 2005 , has n't disclosed how many customers have used it or how much they have spent .
+But carbon offsets offer a feel-good factor to air travelers that technological fixes do n't .
+This year , two major American carriers , Delta Air Lines and Continental Airlines , started similar programs .
+Still , that approach likely has limits , said industry analyst Henry Harteveldt , of Forrester Research .
+`` Consumers probably feel it 's the company 's responsibility to address the environmental impacts of their industry , not theirs , '' he said.. F-35C Makes First Arrested Landing on Aircraft Carrier An F-35C Lightning II , the carrier variant of the Joint Strike Fighter , made an arrested landing aboard a flattop today , an important milestone both in the development of the stealth fighter and in naval aviation history .
+Photo credit : U.S. Navy Photo by Mass Communication Specialist 1st Class Brett Cote US Navy test pilot Cmdr .
+Tony Wilson landed his F-35C on the flight deck of the aircraft carrier Nimitz off the coast of San Diego at 12:18 p.m. Pacific Time , according to a news release from Naval Air Forces .
+The landing , in which the redesigned tailhook worked flawlessly , marked the beginning of initial at-sea developmental testing for the F-35C , which is expected to last two weeks .
+`` Today is a landmark event in the development of the F-35C , '' said Wilson , a pilot with Air Test and Evaluation Squadron 23 , in the news release .
+`` It is the culmination of many years of hard work by a talented team of thousands .
+I 'm very excited to see America 's newest aircraft on the flight deck of her oldest aircraft carrier , the USS Nimitz . ''
+Vice Adm. David H. Buss , commander of Naval Air Forces , was aboard Nimitz to witness the landing .
+`` What a historic day today is for naval aviation .
+With the first traps and catapult launches of the F-35C Lightning II aboard an aircraft carrier , we begin the integration of the next generation of warfighting capability into our carrier-based air wings , '' said Buss in the news release .
+`` This important milestone is yet another indicator of naval aviation 's ongoing evolution to meet future threats and remain central to our future Navy and national defense strategy . `` .
+US Army Testing Pilotless Black Hawk Helicopter The U.S. Army is testing an unmanned version of its famous Black Hawk helicopter .
+The pilotless , 5-ton drone could one day be used to deliver cargo and supplies to troops autonomously .
+The so-called Optionally Piloted Black Hawk ( OPBH ) Demonstrator , built by defense contractor Sikorsky Aircraft Corp. , completed its first test flight on March 11 .
+Ground controllers demonstrated crucial flight operations , and engineers tested the aircraft 's ability to hover over ground autonomously .
+`` The autonomous Black Hawk helicopter provides the commander with the flexibility to determine crewed or un-crewed operations , increasing sorties while maintaining crew rest requirements , '' Mark Miller , vice president of research and engineering at Sikorsky , said in a statement .
+[ 5 Surprising Ways Drones Could Be Used in the Future ] Helicopter drones could also help the Army reduce troop size and lower operational costs , Miller added .
+`` This allows the crew to focus on the more 'sensitive ' operations , and leaves the critical resupply missions for autonomous operations without increasing fleet size or mix , '' Miller said .
+The helicopter is part of Sikorsky 's Manned Unmanned Resupply Aerial Lifter , or MURAL , program .
+The Connecticut-based aircraft manufacturer has been working on the technology since 2007 , and last year , was awarded funding from the Army to expand its research and development efforts .
+These technologies are designed to `` enhance the capability , affordability , readiness and safety of Department of Defense aviation systems , '' William Lewis , director of the U.S. Army Aviation Development Directorate , said in a statement .
+`` The optionally piloted Black Hawk helicopter functionality stands to bring added value to [ Department of Defense ] aviation systems , through the innovations being tested on the Black Hawk helicopter in the MURAL program , '' Lewis said .
+Sikorsky is incorporating systems and software from its Matrix Technology research program to improve the reliability and safety of autonomous , or optionally piloted , aircraft .
+At the core of the company 's Matrix Technology program is Sikorsky 's Autonomy Research Aircraft ( SARA ) , an unmanned helicopter designed to test cutting-edge drone technologies .
+The SARA helicopter first flew on July 26 , 2013 , but continues to be an important platform for testing high-tech systems that require minimal human oversight , according to Sikorsky officials .
+`` Applying Matrix Technology to an already robust , reliable , and safe platform leverages these capabilities while expanding the system 's effectiveness , '' Miller said .
+6 US Drone-Testing Centers Announced In a push to bring drones to U.S. skies , the Federal Aviation Administration ( FAA ) has selected six site operators to research and test unmanned aircraft across the country .
+Three universities - the University of Alaska , Virginia Tech and Texas A & M University-Corpus Christi - as well as Griffiss International Airport in upstate New York , the state of Nevada and the North Dakota Department of Commerce were among the FAA 's picks announced Monday ( Dec. 30 ) .
+Drones have been used primarily for military purposes and other government-sponsored activities like border surveillance and environmental monitoring .
+But the FAA has been working on regulations for the use of commercial drones , projected to be a multibillion-dollar industry .
+[ 9 Totally Cool Uses for Drones ] The shape of some ventures , such as Amazon 's Prime Air , will hinge on the FAA 's decisions .
+Earlier this month , Amazon CEO Jeff Bezos announced his company 's plans to use drones that would deliver packages in 30 minutes or less .
+On the Prime Air website , company officials say they hope the FAA 's rules will be in place `` as early as sometime in 2015 '' so they can begin deliveries .
+( Right now , manufactures can get permission to fly unmanned aircraft as part of research and development and crew training . )
+FAA officials say these six new site operators `` will conduct critical research into the certification and operational requirements necessary to safely integrate UAS [ unmanned aircraft systems ] into the national airspace over the next several years . ''
+The geographic spread of the site operators is intended to reflect the nation 's diversity of climate , topography and population density ; the University of Alaska is well-equipped to study drone navigation over many different types of landscapes , while Griffiss International is well-positioned for researchers to study how drones might be integrated into congested Northeast airspace .
+In addition to location , FAA officials say they also considered research needs , airspace use , safety , aviation experience and risk .
+`` Safety continues to be our first priority as we move forward with integrating unmanned aircraft systems into U.S. airspace , '' FAA Administrator Michael Huerta said in a statement .
+`` We have successfully brought new technology into the nation 's aviation system for more than 50 years , and I have no doubt we will do the same with unmanned aircraft . ''
+Each of the operators is charged with investigating some combination of the FAA 's six drone research goals : system safety and data gathering ; aircraft certification ; command and control link issues ; control station layout and certification ; ground and airborne sense and avoid ; and environmental impacts .
+`` These test sites will give us valuable information about how best to ensure the safe introduction of this advanced technology into our nation 's skies , '' said Transportation Secretary Anthony Foxx.. Commercial Drones Could Grow Into $ 10 Billion Industry , Experts Say The marketplace for commercial drones could be worth $ 10 billion within three years , according to industry analysts .
+Drones are already widely used in the military , but analysts anticipate these unmanned aircraft systems could have broad commercial applications in the public and private sector , United Press International reported .
+Modern Technology Solutions , an engineering firm that specializes in drone systems and ballistic missile defense , recently announced it plans to expand its drone platforms into the commercial market .
+The company said growth in this area has been slow so far , due to a lack of regulations to govern how commercial drones should occupy American airspace , according to UPI .
+Modern Technology Solutions has provided services to a number of government agencies , including the Federal Aviation Administration , NASA , the Pentagon and the Department of Homeland Security.. Top Gun veterans learn to fly RAAF 's F-35 Joint Strike Fighters SAY hello to Top Gun 5.0 .
+Veteran fighter pilots Andrew Jackson and David Bell are the two men at the tip of the spear as the RAAF shifts -towards its next-generation combat aircraft , the F-35 Joint Strike Fighter .
+The two Squadron Leaders , based at RAAF base Williamtown near Newcastle , will be the first Australians to fly the multi-billion dollar machine , billed as the most tech-heavy fighter plane on the planet .
+They will spend four years at Luke Air Force Base in Phoenix , Arizona , first learning how to fly the fifth-generation fighters .
+They will then instruct other Aussie pilots as they filter through in the lead-up to the F-35 's gradual deployment here from 2018 .
+Squadron Leader Andrew Jackson and Squadron Leader David Bell have been selected to be the first RAAF pilots to fly the F-35 fighter jets .
+Picture : Craig Greenhill Listen to defence chiefs talk excitedly about the new aircraft and it would be easy to think they were discussing a new computer or mobile phone , not a war-fighting machine .
+But that , according to Air Vice- Marshal Kym Osley , the RAAF 's head of capability transition , is just the point .
+`` Look at it like this : the F-111 was a landline ; a telephone connected to the system made out of black plastic , '' he said .
+`` The F A-18 is a huge brick -mobile phone , but the F-35 is like the latest iPhone . ''
+This iPhone can drop bombs , evade enemies using stealth technology and `` sees '' the battlefield in real-time below , stretching out for hundreds of kilometres in any direction .
+Sqn Ldr Bell , 34 , saw it as `` a game-changer '' .
+`` We 're going to have to adapt the way we think about air combat to be able to utilise the F-35 to its full -potential , '' he said .
+`` To get in on the ground floor and be one of the first guys to start doing that is a real privilege . ''
+AVM Osley said the new -machine would trigger a `` generational change '' in the way the RAAF approached air combat .
+Squadron Leader Andrew Jackson and Squadron Leader David Bell have been selected to be the first RAAF pilots to fly the F-35 fighter jets .
+Picture : Craig Greenhill `` You 're talking about an aeroplane that has more lines of code in it than any other combat aircraft in the world , '' he said .
+`` It will give that god's-eye view to the Australian defence force ; not just other to other fighter jets but to air warfare destroyers and airborne early warning and control aircraft .
+`` You 'll be able to put an F-35 anywhere on this planet and it will be able to tell you what is happening within hundreds of kilometres of it and then convey that back to us in near real-time . ''
+AVM Osley , a veteran fighter pilot himself , said older aircraft -required up to 90 per cent of a pilot 's concentration and effort , both to fly and interpret incoming information .
+He said the F-35 would take less than 10 per cent , leaving pilots more time to make strategic decisions.. Ariane 5 's first launch of 2016 An Ariane 5 last night delivered telecom satellite Intelsat-29e into its planned orbit .
+Liftoff of Ariane flight VA228 occurred on 27 January at 23:20 GMT ( 20:20 local time , 00:20 CET on 28 January ) from Europe 's Spaceport in Kourou , French Guiana .
+Intelsat-29e was the sole passenger on this launch .
+With a mass at liftoff of 6552 kg , it was released about 30 minutes into the mission .
+Positioned at 50 W over Brazil in geostationary orbit , the satellite has a design life of 15 years and is the first of a new generation of telecom satellites that will provide the fastest commercially available connectivity to mobile network operators , aero and maritime mobility service providers and government customers .
+Coverage is the Americas and over the North Atlantic for shipping and aviation routes .
+This is the first of two of Intelsat 's next-generation satellites that will be launched by Ariane 5 this year .
+Flight VA228 was the 84th Ariane 5 mission.. New System Helps Airliners Avoid Turbulence Airplane passengers could soon experience much less in-flight turbulence if testing goes well for a new detection system designed to end stomach-lurching bumpy rides and reduce delays .
+The air turbulence detection system , designed by the National Center for Atmospheric Research ( NCAR ) , has already successfully alerted some pilots steering United Airlines commercial flights to patches of rough air as they flew through clouds .
+`` We hope this will provide a significant boost to the aviation industry in terms of passenger comfort , safety and reduced costs , '' said NCAR scientist John Williams .
+The system uses a mathematical method known as the NEXRAD Turbulence Detection Algorithm , or NTDA , to analyze data obtained from the National Weather Service 's network of Next-Generation Doppler Radars ( NEXRAD ) .
+NTDA detects turbulence in storms by peering into clouds and analyzing the distribution of winds inside .
+It reprocesses the radar data to remove contaminating factors , such as sunlight , nearby storms or even swarms of insects flying near the radar dish .
+The data are compiled into real-time snapshots , or `` nowcasts , '' of turbulence and transmitted to pilots in the cockpit and made available to airline meteorologists and dispatchers via a Web-based display .
+Reducing flight delays THE NTDA system is being tested through October by a group of United Airlines pilots who fly routes east of the Rockies , where air turbulence is a major problem .
+Captain Rocky Stone , chief technical pilot for United Airlines , says he is impressed by the system .
+`` The messages I 've received in the cockpit gave a very accurate picture of turbulence location and intensity , '' Stone said .
+`` The depiction of turbulence intensity provides an unprecedented and extremely valuable new tool for pilot situational awareness . ''
+If results from this year 's test remain promising , the system could be expanded to additional United aircraft or other airlines .
+Williams anticipates that by 2011 , NTDA will be used across the contiguous United States to provide turbulence reports updated every 15 minutes .
+Developers say NTDA could help reduce flight delays by allowing pilots to avoid only those thunderstorms they deem a turbulence threat .
+`` Current FAA guidelines suggest that pilots avoid thunderstorms by a wide margin , '' Williams explained .
+`` By giving more specific information on the location and intensity of turbulence , we expect that the in-cloud NTDA product will reduce unnecessary deviations and the resulting delays , while also providing increased safety and passenger comfort . ''
+A societal benefit Air turbulence is a major problem for airlines .
+According to a review of National Traffic Safety Board data from 1992 to 2001 by the National Aviation Safety Data Analysis Center , turbulence was a factor in at least 509 accidents in the United States that resulted in 251 deaths in general aviation flights , which do not typically include large commercial aircraft .
+Additionally , the FAA estimates that there are more than 1,000 minor turbulence-related injuries on commercial aircraft annually .
+`` We expect that our new in-cloud turbulence detection system will be able to mitigate at least a fraction of that cost , producing a significant societal benefit , '' Williams told LiveScience .
+The new system could also do away with the annoyance of repeated in-flight buckling and un-buckling of seat belts , Williams said .
+`` One benefit of our system is that when a pilot uses it to turn on the 'fasten seat belt ' sign , the passengers and crew can be confident that there really is turbulence ahead , '' Williams said .
+The research is funded by the Federal Aviation Administration ( FAA ) in partnership with the National Science Foundation .
+Northrop Grumman Delivers First RAAF F-35 Fuselage Northrop Grumman delivered the centre fuselage section for the first RAAF F-35A Lightning II , designated AU-1 , to prime contractor Lockheed Martin on September 23 .
+`` This centre fuselage will be incorporated into the first F-35 for the Royal Australian Air Force and will be delivered in 2014 for pilot training , '' said Brian Chappel , vice president of the F-35 program for Northrop Grumman Aerospace Systems .
+`` The first Australian centre fuselage was inducted into our Integrated Assembly Line at Palmdale last October and now we 've delivered it , marking yet another milestone achievement for the F-35 program . ''
+The centre fuselage for AU-1 is loaded onto a semi-trailer in Palmdale .
+The centre fuselage for AU-1 is loaded onto a semi-trailer in Palmdale .
+Australia so far has contracted for two of a planned fleet of up to 100 F-35s .
+The fuselage for the second jet , AU-2 , is one of 35 centre fuselages `` in flow '' on Northrop Grumman 's Palmdale assembly line.. F-35 Flies Against F-16 In Basic Fighter Maneuvers The F-35 Joint Strike Fighter has been flown in air-to-air combat maneuvers against F-16s for the first time and , based on the results of these and earlier flight-envelope evaluations , test pilots say the aircraft can be cleared for greater agility as a growth option .
+Although the F-35 is designed primarily for attack rather than air combat , U.S. Air Force and Lockheed Martin test pilots say the availability of potential margin for additional maneuverability is a testament to the aircraft 's recently proven overall handling qualities and basic flying performance .
+`` The door is open to provide a little more maneuverability , '' says Lockheed Martin F-35 site lead test pilot David `` Doc '' Nelson .
+The operational maneuvers were flown by Nelson in AF-2 , the primary Flight Sciences loads and flutter evaluation aircraft , and one of nine F-35s used by the Edwards AFB-based 412th Test Wing for developmental testing ( DT ) .
+The F-35 Integrated Test Force at Edwards has six F-35As , two F-35Bs and a single F-35C dedicated to DT work , as well as a further set of aircraft allotted to the Joint Operational Test Team .
+Work is underway as part of efforts to clear the final system development and demonstration ( SDD ) maneuvering envelopes on the way to initial operational capability ( IOC ) .
+The U.S. Marine Corps F-35B IOC is targeted for later this year , the Air Force 's F-35A in 2016 , and the U.S. Navy 's F-35C in 2019..
+Potential Iceland eruption could pump acid into European airspace A modern recurrence of an extraordinary type of volcanic eruption in Iceland could inject large quantities of hazardous gases into North Atlantic and European flight corridors , potentially for months at a time , a new study suggests .
+Using computer simulations , researchers are investigating the likely atmospheric effects if a `` flood lava '' eruption took place in Iceland today .
+Flood lava eruptions , which stand out for the sheer amounts of lava and sulfurous gases they release and the way their lava sprays from cracks like fiery fountains , have occurred in Iceland four times in roughly the past thousand years , records indicate , the most recent being the deadly and remarkable eruption of Iceland 's volcano Laki in 1783-84 .
+When Laki sprang to life on June 8 , 1783 , it generated a sulfuric acid haze that dispersed over Iceland , France , England , the Netherlands , Sweden , Italy , and other countries .
+It killed a fifth of Iceland 's population and three-quarters of the island 's livestock .
+It also destroyed crops , withered vegetation , and sowed human disease and death in several Northern European nations .
+During the eight months that Laki erupted , the volcano blasted 122 million tons of sulfur dioxide into the atmosphere - seven times more than did the 1991 Mt .
+Pinatubo eruption in the Philippines and approximately 50 to 100 times more per day than Iceland 's Eyjafjallajokull volcano released in 2010 .
+Researchers have found evidence in previous studies that a modern Laki-like eruption could disrupt European air traffic .
+Now , using two computer models that simulate physical and chemical behaviors of volcanic emissions , atmospheric scientist Anja Schmidt of the University of Leeds in the U.K. and her colleagues are refining scientific understanding of the likely concentrations and distributions of hazardous sulfur dioxide gas and sulfuric acid from such an event .
+If a Laki-like eruption were to begin in late spring or summer , as it did in 1783 , the daily average concentrations of sulfur dioxide during that first month would exceed 40 parts per billion by volume ( ppbv ) in up to a third of the North Atlantic and European airspace , the new simulations show .
+That concentration falls just under the level of 47 ppbv at which the World Health Organization ( WHO ) deems chronic exposure to the gas a health hazard , although short-term exposures are considered hazardous only at much higher concentrations .
+In up to 10 percent of the air space , concentrations would exceed five times the WHO chronic exposure guideline , the researchers found .
+The emissions would n't come from Laki itself , which volcanologists say has spent its fury , but could explode from several other Icelandic volcanic systems .
+Most sulfur dioxide gas emitted by volcanoes rapidly undergoes chemical reactions to form an aerosol - minuscule particles suspended in the atmosphere -- of sulfuric acid droplets .
+In the new simulations - focusing again on the first month of the eruption -- average daily concentrations of the droplets , in up to 10 percent of the air space , would exceed 10 times London 's average daily concentration of the corrosive pollutant , the researchers found .
+`` It 's known that flying through a volcanic ash cloud can damage aircraft .
+In the case of a Laki-type eruption , high sulfur dioxide and sulfuric acid concentrations will have to be considered as an additional hazard , '' Schmidt said .
+An acceptable level of exposure for aircraft and their passengers is something for government aviation officials and industry to address , she added .
+Schmidt presented the preliminary results from the study today in Selfoss , Iceland at the Chapman Conference on Volcanism and the Atmosphere , a meeting sponsored by the American Geophysical Union ( AGU ) .
+Her collaborators include Kenneth Carslaw , also of Leeds , Claire Witham and Matthew Hort of the UK Met Office , in Exeter , and Thor Thordarson of the University of Edinburgh , also in the U.K .
+Previous work by Thordarson and others had suggested that a new Laki-like eruption could disrupt air traffic .
+When Eyjafjallajokull erupted two years ago , its ash plume created a huge air traffic snarl across Europe for about a week , causing cancellations of more than 100,000 flights , according to published reports .
+A flood-lava eruption would also spew ash , but it would release far more sulfur dioxide than a volcano like Eyjafjallajokull does , Schmidt explained .
+Judging from the past , a Laki-like eruption would likely continue for a lot longer than did Eyjafjallajokull 's outburst , possibly cancelling many more flights , Schmidt said .
+Also , the eruption would be most intense in the first few months , which suggests that atmospheric effects would remain at about the same levels for the first two to three months .
+`` But really , it 's the next step in our research to analyze later stages of the impact and determine if and where emission concentrations might pose a short-term exposure hazard , '' she noted .
+Schmidt has previously investigated the human health implications of a modern Laki-like eruption .
+A study published last year in Proceedings of the National Academy of Sciences , on which she was the first author , found that a modern Laki-type eruption could result in 142,000 deaths as a result of cardiopulmonary damage that its emissions would inflict on today 's Europeans .
+It 's difficult to predict exactly what the consequences will be if and when another flood-lava eruption roils the skies of Iceland , Schmidt said , because so many variables affect the behaviour of a volcano and therefore its impacts on aviation and society .
+But , she added , with sound estimates of the range of possibilities , and how various factors influence them , aviation officials and the airline industry , health care providers and the rest of society can better prepare and plan for the harsh reality of the next Laki-like event.. Three Historic Firsts for Italy in the F-35 Program During 2015 At the beginning of the 20th Century , Italy was a pioneer in combat aviation .
+Although different at the beginning of the 21st century , Italy has again emerged as an important player in military aviation .
+They are key players in the two key 21st century multinational military aviation industrial coalitions , Eurofighter and F-35 , as well as establishing a center of excellence for pilot training along with introducing one of the best 21st century trainers , the Aermacchi M-346 .
+In late September , in the famous Italian Air Ministry building in the center of Rome , I had a chance to conduct my third interview with Lt. General Preziosa , the Chief of Staff of the Italian Air Force .
+The Italians like the British are undergoing a double transition , whereby the Eurofighter is being modernized in two ways , namely , subsuming Tornado missions and replacing the Tornado and adding a new AESA radar to the airplane and introducing the F-35 to help shape joint force transformation .
+The Italians have built a significant facility at Cameri air base to build the F-35 , wings for F-35s and to provide sustainment for the operational fleet throughout the region as well .
+Earlier this Fall , the first F-35 came off of the Cameri line and flew successfully in Italian Air Space .
+The facility was built in only four years and the first flight was ahead of schedule .
+On Sept. 7 , the first F-35A assembled outside the US , made its very first flight from Cameri airbase .
+The aircraft , designated AL-1 , is the first of eight aircraft currently being assembled at the Final Assembly and Check Out ( FACO ) facility at Cameri , in northwestern Italy .
+During the flight , that lasted about 1,5 hours , the F-35A was escorted by a Eurofighter Typhoon.As Secretary Wynne , the man who started the talks on building the Italian facility with the Italians put it with regard to the importance of the event : `` This flight makes the F-35 truly an international program . ''
+Lt. General Preziosa noted `` the quality of the aircraft which has come off of the Italian line clearly demonstrates the competence of our industry and the importance of our strategic partnerships with U.S. and global defense industry .
+The fact that the Dutch Air Force will buy planes from the Italian line is also a recognition of the quality of the Italian effort . ''
+For Preziosa , the F-35 is really a different type of plane , probably not well captured by the term fifth generation aircraft .
+`` The F-22 and the F-35 are called fifth generation aircraft , but really the F-35 is the first airplane built for the digital age .
+It was conceived in and for that age , and is built around the decision tools in the cockpit and is in fact a flying brain .
+And that makes it different from other aircraft .
+It is a multi-tasking aircraft , and fits well into the I-phone age .
+Other aircraft - with the exception of the F-22 - are built to maximize out as multi-mission aircraft , which execute tasks sequentially and directed to do so .
+The F-35 fleet thinks and hunts and can move around the mission set as pilots to operate in the battlespace leverage the data fusion system .
+It is a battlespace dominance aircraft ; not a classic air superiority , air defense or ground attack aircraft .
+It changes the classic distinctions ; confuses them and defines a whole new way to look at a combat aircraft , one built for the joint force age as well .
+For the Army and the Navy will discover as the F-35 fleet becomes a reality , how significant the F-35 is for their combat efforts . ''
+`` There is nothing static in airpower ; there is always a fluid dynamic , and the F-35 provides a benchmark for now for air power excellence and for several decades moving ahead we will leverage the decision tools and multi-tasking capabilities of the F-35 as well add capabilities to our Air Forces . `` .
+Inspiring Future Aviators at the Abbotsford Airshow `` What 's it like to fly the F-35 ? ''
+asks a group of young , wide-eyed children .
+`` You know the helmet Tony Stark in the Iron Man movies wears ?
+That 's the kind of helmet I wear , '' explains Billie Flynn , Test Pilot on the F-35 program .
+Billie answered these and several other questions that aviation-enthused children asked in the Lockheed Martin Tech Zone at the Abbotsford Air Show .
+The Tech Zone was aimed at getting children at the air show excited about science , technology , engineering and math ( STEM ) education , which can lead them toward a career in a field like engineering and aviation .
+Kids participated in a paper airplane competition that taught them about the aerodynamics of flight and gave them a chance to win an F-35 baseball cap .
+When their first designs did n't get them past the prize point , many made like an engineer and got to problem solving , making tweaks and changes until they watched their planes soar to success .
+The highlight of the tent was the opportunity to build an F-35 Lego from a specially-designed kit .
+Parents and other adult volunteers stood in awe as many kids turned 40+ tiny Lego parts into a mini replica of the F-35 in a matter of minutes .
+One child , showing his excitement after building his Lego , explained to Flynn what he was able to accomplish .
+`` If you 're smart enough to build that in 10 minutes , '' explained Flynn , `` I 'll bet you 're smart enough to become an engineer that builds real F-35s ! ''
+In addition to Flynn , members of the F-22 Raptor Demonstration Team and the 436 CC-130J Transport Squadron also stopped by the Tech Zone to sign autographs and answer questions .
+One airshow attendee asked Capt .
+Justin `` Spike '' Lennon , a member of the F-22 Demo Team , about the F-35 's program delays and challenges .
+`` From the pilots perspective the F-22 had some delays and challenges as well .
+But today the F-22A Raptor is a combat-proven 5th generation fighter that is unmatched by any airplane in the world .
+I think there is something to be said about having patience .
+It took time to develop F-22 tactics and get us to where we are today . `` .
+First F-35 For Australia Takes Shape In Fort Worth FORT WORTH , Texas , Oct. 8 , 2013 - Lockheed Martin and the Royal Australian Air Force ( RAAF ) celebrated the beginnings of the first F-35 Lightning II for Australia yesterday .
+The aircraft , designated as AU-1 , officially began the mate process , where major components of the aircraft are joined together to form the aircraft 's structure .
+AU-1 will then make its way down the assembly line and roll out of the factory for delivery to the RAAF in the summer of 2014 .
+Jeff Babione , Lockheed Martin Vice President and Deputy Program Manager for F-35 , highlighted the ongoing partnership between Lockheed Martin and Australia .
+`` Today marks a new beginning for tactical aviation for Australia , '' said Babione .
+`` Lockheed Martin is proud of our long and storied relationship with Australian aviation , and now , the F-35 will ensure that the relationship with the RAAF and Australian Industry remains strong for decades to come . ''
+The global supply chain for the F-35 currently has 14 Australian companies under contract and building parts for the F-35 .
+Australian industry is expected to gain up to $ 6.3 billion USD in industry opportunities over the life of the F-35 program .
+Every F-35 built will have some Australian parts and components .
+The occasion also marked a longstanding history between Lockheed Martin and Australia 's Defence Forces , beginning with the Lockheed Vega , F-111 and continuing with the F-35 .
+Australia 's first two F-35s , now in production , will be delivered to the RAAF next year .
+The F-35 Lightning II is a 5th generation fighter , combining advanced stealth with fighter speed and agility , advanced mission systems , fully fused sensor information , network-enabled operations and cutting-edge sustainment .
+Three distinct variants of the F-35 will replace the A-10 and F-16 for the U.S. Air Force , the F A-18 for the U.S. Navy , the F A-18 and AV-8B Harrier for the U.S. Marine Corps , and a variety of fighters for at least 10 other countries .
+Headquartered in Bethesda , Md. , Lockheed Martin is a global security and aerospace company that employs about 116,000 people worldwide and is principally engaged in the research , design , development , manufacture , integration , and sustainment of advanced technology systems , products , and services .
+The Corporation 's net sales for 2012 were $ 47.2 billion .
+VMX-22 Receives First F-35B Aircraft WASHINGTON -- Marine Operational and Evaluation Squadron 22 received its first F-35B aircraft at Edwards Air Force Base , California for operational testing Oct. 9 , 2014 .
+U.S. Marine Corps photo by Cpl .
+Owen Kimbrel .
+`` VMX-22 's mission is to conduct operational testing and evaluation of U.S. Marine Corps ' fixed , tiltrotor , and rotary-wing aircraft , Unmanned Aerial Systems , and Marine Air Command and Control Systems , support concept development , and assist in the creation of Marine aviation tactics , techniques and procedures through experimentation and support to tactical demonstrations , '' said Col. Robert L. Rauenhorst , commanding officer of Marine Operational and Evaluation Squadron 22 .
+Previously , VMX-22 only consisted of MV-22 and CH-53 aircraft , but the arrival of the F-35B marks the start of VMX-22 fixed wing flight operations .
+This is the first of four F-35B aircraft that will arrive over the upcoming months at Edwards Air Force Base.. VMX-22 Receives First F-35B Aircraft WASHINGTON -- Marine Operational and Evaluation Squadron 22 received its first F-35B aircraft at Edwards Air Force Base , California for operational testing Oct. 9 , 2014 .
+U.S. Marine Corps photo by Cpl .
+Owen Kimbrel .
+`` VMX-22 's mission is to conduct operational testing and evaluation of U.S. Marine Corps ' fixed , tiltrotor , and rotary-wing aircraft , Unmanned Aerial Systems , and Marine Air Command and Control Systems , support concept development , and assist in the creation of Marine aviation tactics , techniques and procedures through experimentation and support to tactical demonstrations , '' said Col. Robert L. Rauenhorst , commanding officer of Marine Operational and Evaluation Squadron 22 .
+Previously , VMX-22 only consisted of MV-22 and CH-53 aircraft , but the arrival of the F-35B marks the start of VMX-22 fixed wing flight operations .
+This is the first of four F-35B aircraft that will arrive over the upcoming months at Edwards Air Force Base.. CNO visits future home of F-35C and surprises officers with medals Chief of Naval Operations ( CNO ) , Adm. Jonathan W. Greenert , and his wife , Darleen , toured the U.S. Navy 's future homebase for the F-35C Lightning II aircraft to see first-hand where the Pacific Fleet 's strike fighter force will continue to thrive as a premier Naval Aviation asset .
+On Oct. 2 , the U.S. Navy announced Naval Air Station ( NAS ) Lemoore as the west coast homebase for 100 F-35C Lightning II strike fighter aircraft that will replace 70 aging FA-18 Hornet aircraft by 2028 .
+`` This is one of the sites where the Joint Strike Fighter will be homebased , and it 's coming here first .
+The Sailors at Naval Air Station Lemoore will be the ones to most effectively integrate this aircraft into the air wing .
+We will get this right , '' Greenert said , as he addressed more than 1,000 Sailors and Marines from NAS Lemoore and its tenant commands during an all-hands call .
+The CNO opened the assembly by administering the Oath of Enlistment to 25 Sailors from several commands , including the installation , Strike Fighter Wing Pacific Fleet ( SFWP ) squadrons and Naval Hospital Lemoore .
+He also presented four Navy Achievement Medals .
+Speaking with each member individually , the CNO 's wife and the rest of the crowd were kept entertained by the parade of Navy family members invited to the stage for photographs .
+Greenert answered several questions and discussed a variety of topics during the all-hands call , from uniform changes to manning issues , deployment lengths and what motivated him to serve as the 30th CNO .
+`` First of all , you have to get there and be in the Navy this long , '' quipped the 1975 U.S .
+Naval Academy graduate .
+`` My number one motivation has been my wife , Darleen .
+You have to be happy in your home life .
+Secondly , you 've got to want to serve with shipmates like you guys .
+You have a strong ethical background and good moral character , that 's important to me , '' Greenert added .
+The CNO 's message , and his presence at the air station , seemed to resonate with Sailors .
+`` He talked to everyone like they 're family .
+The CNO being here shows his support for us , we 're not off on our own , we 're part of something larger than ourselves , '' noted Equipment Operator Third Class ( SCW ) Andrew Johnson , assigned to Naval Operational Support Center Lemoore .
+The CNO also met with installation and SFWP leadership for a Round Table of discussions that included the CNO 's positive view of the future of Naval Aviation and where it needs to go with not only the F-35C , but also with the current FA-18 Super Hornet .
+Naval Aviation will struggle if both platforms are not maintained and adapt into the future .
+Additionally , installation and SFWP leadership were able to pass along their concerns regarding installation support and operational requirements for the Fleet , Fighter , and Family .
+Enroute to the installation 's airfield , the CNO stopped to visit the new NAS Lemoore Aviator Memorial where he surprisingly presented Military Outstanding Volunteer Service Medals to the two Naval Aviators responsible for the Memorial 's creation .
+The duo lost two friends and brethren Naval Aviators following a fatal mishap April 6 , 2011 .
+Get breaking news sent instantly to your inbox `` This is a selfless , innovative way to pay tribute to shipmates .
+Presenting Lt. Cmdr .
+Erik Kenny and Lt. Cmdr .
+Ben Charles with the Military Outstanding Volunteer Service Medal is the least we can do for these guys who took it upon themselves to make it happen , '' the CNO said .
+During a tour of the air station 's Operations Side , the CNO saw where strike fighter air crew perform about 200,000 flight operations per year .
+`` He completely grasped where we are , how we are growing , and the significance we play not only in our Carrier Strike Groups with what will be nearly 60 percent of U.S. Navy 's strike fighter airpower , but in our U.S. Navy and National Defense , '' said Capt .
+Monty Ashliman , Commanding Officer NAS Lemoore .
+The relocation of two strike fighter squadrons from NAS Oceana to NAS Lemoore in 2016 indicates the west coast air station will soon be home to 60 percent of the Navy 's strike fighter aircraft.. Iris for safer air travel 9 May 2014 Aviation accidents sometimes highlight how much we still rely on old-fashioned radio contact by pilots and vulnerable tracking systems .
+But satellites are set to change sky safety , thanks to international collaboration .
+ESA 's Iris programme is looking to satellites to make aviation safer through modern communications .
+Worldwide digital data links via satellite , offering much higher capacity , will become the standard for cockpit crews , with voice communications kept as backup .
+Iris is part of a much broader push to modernise how air traffic is managed in collaboration with the Single European Sky effort of the European Commission , Eurocontrol , airport operators , air navigation providers and aerospace companies .
+Digital data links via satellite Modernisation on this scale demands a long-term stepped approach but it promises to boost efficiency , capacity and performance .
+Iris is divided into two phases , in line with Europe 's master plan for managing future air traffic .
+First , the Iris Precursor service will provide air-ground communications for initial 4D flight path control by 2018 , pinpointing an aircraft in four dimensions : latitude , longitude , altitude and time .
+Controlling flight paths with 4D is safer Second , by 2028 , the Iris long-term service will enable full 4D management over airspaces across the globe and the data link will be the primary means of communications between controllers and cockpit crews .
+Controlling flight paths with 4D is safer and more reliable .
+To help achieve this goal , ESA is developing a new global standard for satcoms that can be adopted worldwide , and is designing infrastructure to make this service available in Europe .
+Some airlines already use satellite services To meet safety regulations , aircraft in European airspace fly an extra 42 km on average than they would on an optimal route , incurring unnecessary costs and carbon dioxide emissions .
+4D paths will enable precise tracking of flights and more efficient management of traffic .
+A key benefit of 4D is that it allows rapid rerouting , meaning fewer flight cancellations and delays , and safer air travel - possible partly because all aircraft will be continuously monitored and locations periodically reported to control centres .
+Airlines have accepted the need to switch to digital services , and some satellite services are already in use over ocean airspace .
+The changes will take some time because manufacturing schedules for aircraft are set years in advance .
+Existing planes require modifications to install the new hardware , and affordability requires that costs are kept to a minimum .
+`` This programme will bring essential improvements to the safety of air travel as well as vast economic benefits , '' notes Magali Vaissiere , ESA 's Director of Telecommunications and Integrated Applications .
+`` We can only do it if we join forces , and are ready to tackle this challenge step by step . `` .
+Tu-214ON ( Open Skies ) Reconnaissance Aircraft , Russia 9 May 2014 Tu-214ON is a special-purpose reconnaissance aircraft built by Kazan Aviation Production Association n.a .
+S.P .
+Gorbunov ( KAPO ) , an affiliate of JSC Tupolev Design Bureau , for the Russian Air Force .
+The aircraft is intended to carry out unarmed observation , reconnaissance , surveillance , supervisory inspection and monitoring missions as part of the Open Skies Treaty international programme , which was signed by the US and the representatives of its 23 states in March 1992 .
+The jet can also conduct patrol in the coastal economic zone and border areas and provide support in emergency situations .
+JSC Radio Engineering Concern Vega , a subsidiary of United Instrument Manufacturing Corporation , was contracted for the development of airborne surveillance system , ground-based complex and other mission equipment for the aircraft .
+`` The Tu-214ON is intended to carry out unarmed observation , reconnaissance , surveillance , supervisory inspection and monitoring missions as part of the Open Skies Treaty international programme . ''
+The first Tu-214ON jet ( RA-64519 ) was demonstrated at the MAKS-2011 international air show in Moscow .
+It performed its first test flight on 1 June 2011 , which was followed by a series of 24 flights by December 2011 .
+The Ministry of Defence of the Russian Federation conducted state tests to verify the air and ground equipment of the Tu-214ON aircraft in April 2013 .
+The jet was delivered to the Russian Defence Ministry in August 2013 .
+The second airliner ( RA-64525 ) made its first flight in December 2013 and was delivered in July 2014 .
+Tu-214ON is set to replace the Tu-154 observation airplane and the An-30 aerial cartography aircraft .
+In August 2014 , Vega delivered a set of training facilities to the Russian Air Force for use in training specialists of aviation system .
+The training system , consisting of two digital training computer labs and procedural simulators , is used to train the operators of aircraft and surveillance equipment .
+Tu-214ON aircraft design and features Boeing RC-135 Reconnaissance Aircraft , United States of America Boeing RC-135 is a four engine , medium weight reconnaissance aircraft designed and manufactured by Boeing Defence and Integrated Systems for the US Air Force ( USAF ) .p > The Tu-214ON special-purpose reconnaissance aircraft is a modified Tu-214 passenger airliner .
+It is equipped with monoplane wings and a reinforced retractable landing gear .
+The nose landing gear features two wheels and two main landing gear units having four wheels each .
+The jet is also fitted with an additional second door .
+Five members can be accommodated on the flight deck .
+These are the crew commander , co-pilot , navigator , flight engineer , radio operator and translator .
+Each crew workstation is equipped with two monitors to display the aircraft location , information about flight conditions and the hardware image .
+All the five workstations are connected to a local-area network .
+The aircraft is also integrated with an auxiliary 15kVA-30kVA power supply system and an aircraft oxygen system , both developed by Russian firm Aviation Equipment Holding .
+The base variant of the Tu-214ON measures 46m in overall length , 13.9m in overall height , and 42m in wing span .
+It has a wing area of 184.2m2 , empty weight of 59,000kg and maximum take-off weight of 110,750kg .
+Surveillance equipment onboard the reconnaissance aircraft The Tu-214ON reconnaissance aircraft is equipped with one A-84ON panoramic camera , one AK-111 topographic camera and two perspective AK-112 digital aerial cameras to capture high-resolution aerial photography .
+Cameras are provided with interchangeable lenses and different focal lengths .
+The surveillance system also comprises a set of TV cameras for observation at low altitudes .
+An infrared line scanning device is installed to perform linear scanning of thermal imaging area in the range of 0.5-1.1 microns and 8-12 microns .
+The aircraft also incorporates Ronsard sideways-looking , synthetic aperture radar for aerial observation at different altitudes under difficult weather conditions .
+Ground complex The ground-based complex built by Vega collects and processes the navigation and surveillance data obtained by the aircraft , as well as tests the efficiency and performance of the sensors .
+Tu-214ON engine and performance Power for the base variant of the Tu-214ON special-purpose aircraft comes from two PS-90 ?
+turbofan engines placed under the wings in composite cowlings .
+Each engine develops a maximum take-off thrust of 16,140kg .
+The fuel tank capacity of the aircraft is 35.71t .
+The aircraft has a cruise speed ranging from 810km h to 850km h and can reach altitudes up to 12,100m .
+Its range at full payload is 4,340km.. LONGBOW LLC Receives $ 51 Million Contract for Republic of Korea Apache Radar Systems ORLANDO , Fla. , Sept. 12 , 2013 - The LONGBOW Limited Liability Company , a joint venture of Lockheed Martin [ NYSE : LMT ] and Northrop Grumman [ NYSE : NOC ] , received a $ 51 million foreign military sales contract to provide the Republic of Korea with LONGBOW Fire Control Radars ( FCRs ) for the AH-64E Apache attack helicopter .
+The contract includes six LONGBOW FCR systems , spares and in-country support .
+Production is scheduled through 2016 , with assembly of the LONGBOW FCR performed at Lockheed Martin 's Ocala and Orlando , Fla. , facilities , and Northrop Grumman 's Baltimore , Md. , facility .
+`` The Republic of Korea is the 10th international customer for LONGBOW systems , '' said Tom Eldredge , LONGBOW LLC president and director of LONGBOW programs at Lockheed Martin Missiles and Fire Control .
+`` The LONGBOW FCR is a battle-proven radar system that will provide Republic of Korea Apache pilots with increased situational awareness , survivability and lethality . ''
+`` The LONGBOW FCR team will provide the Republic of Korea with a product that promotes greater regional security and provides warfighters with the highest level of protection while increasing the international Apache footprint , '' said Mike Galletti , director of the Tactical Sensor Solutions-Aviation business unit for Northrop Grumman 's Land and Self Protection Systems Division .
+Since 1998 , LONGBOW FCR has provided Apache aircrews with target detection , location , classification and prioritization .
+In all weather , over multiple terrains and through any battlefield obscurant , the radar allows automatic and rapid multitarget engagement .
+Northrop Grumman is a leading global security company providing innovative systems , products and solutions in unmanned systems , cyber , C4ISR , and logistics and modernization to government and commercial customers worldwide .
+Lockheed Martin Missiles and Fire Control is a 2012 recipient of the U.S. Department of Commerce 's Malcolm Baldrige National Quality Award for performance excellence .
+The Malcolm Baldrige Award represents the highest honor that can be awarded to American companies for achievement in leadership , strategic planning , customer relations , measurement , analysis , workforce excellence , operations and business results .
+Headquartered in Bethesda , Md. , Lockheed Martin is a global security and aerospace company that employs about 116,000 people worldwide and is principally engaged in the research , design , development , manufacture , integration , and sustainment of advanced technology systems , products , and services .
+The Corporation 's net sales for 2012 were $ 47.2 billion.. EasyJet to test infrared ash detectors on planes ( AP ) -- Low-cost airline easyJet PLC unveiled plans Friday to test infrared technology 's ability to detect volcanic ash clouds and urged other airlines to help map the ash risk across Europe 's skies .
+The company said the devices - which are placed on an aircraft 's tail fin and can detect ash clouds within 60 miles ( 100 kilometers ) - are the first of their kind , calling them `` essentially a weather radar for ash . ''
+The airline is spending 1 million pounds ( $ 1.46 million ) developing and testing the technology with aircraft manufacturer Airbus and hopes to roll out the devices in a dozen planes by the end of the year .
+The devices aim to prevent a repeat of the five-day shutdown of European airspace in April caused by an erupting Icelandic volcano that affected 10 million passengers worldwide .
+The AVOID - Airborne Volcanic Object Identifier and Detector - technology is designed to work like the weather detection systems already in use for spotting thunderstorms .
+A lightweight infrared device would provide images to the pilots and an airline 's flight control center , enabling pilots to see an ash cloud at altitudes between 5,000 and 50,000 feet ( 1,524 to 15,240 meters ) high .
+`` This pioneering technology is the silver bullet that will make large-scale ash disruption history , '' easyJet CEO Andy Harrison told reporters .
+However , use of the devices will need approval from regulators across Europe and industrywide adoption to have a significant effect .
+Jeremie Teahan , a spokesman for the European Aviation Safety Agency , said the regulator welcomed `` applications to certify any equipment that has the potential to increase flight safety '' but noted that one had not yet been received from easyJet .
+Other airlines were noncommittal .
+Virgin Atlantic Airways said it `` welcomes the testing of any technology that could play a role , when proven and certified , in preventing a repeat of the unnecessary blanket closures of U.K .
+airspace . ''
+In a similar statement , British Airways PLC said it would await test results .
+Justin Dubon , a spokesman for the Toulouse , France-based Airbus , said his company has no plans beyond its initial testing with easyJet - the airline is using an Airbus A340 test plane for a trial within the next couple of months before rolling the device out for wider testing on its own aircraft .
+Dubon said it was up to easyJet how the device is eventually sold to other airlines and Airbus had no plans to include it on all their jets .
+Harrison said the airline had n't worked out the commercial details , but intended to share the technology , which was developed by a senior scientist at the Norwegian Institute for Air Research .
+`` What we do n't want to do is to gain a commercial advantage over other airlines so we can fly and they ca n't , '' Harrison said .
+`` This is a huge leap forward and the best thing is to get this technology on hundreds of planes operated by a number of airlines . ''
+The unprecedented closure of European airspace in April caused losses of more than euro2.5 billion ( $ 3.3 billion ) to airlines and other related businesses .
+Airlines have blamed European regulators , saying they overreacted and have demanded that internationally recognized standards of ash contamination be set .
+EasyJet , which lost up to 75 million pounds ( $ 109 million ) due to the airspace closures , is one of a number of airlines seeking compensation from European governments .
+Andrew Haines , the chief executive of Britain 's Civil Aviation Authority , defended the decision to close airspaces , saying aircraft manufacturers did not provide any information about what was a safe level of ash .
+Few doubt that flying directly into an ash cloud could disable an aircraft .
+But it remains unclear whether the abrasive particles present a hazard to the jets outside the immediate area of the volcanic plume .
+Haines welcomed easyJet 's testing of new technology .
+`` I very much hope this is a sign that the industry is going to play its part ... rather than pretending the risk does n't exist , '' he said .
+Fred Prata , the scientist behind the devices , has been developing the technology for some 20 years , carrying out tests near erupting volcanoes .
+Still , some scientists expressed skepticism about the new technology .
+Colin Brown , director of engineering at the Institution of Mechanical Engineers in London , that while experts welcomed efforts to gather data , the new technology `` should not be seen as a silver bullet that will allow unlimited flying . ''
+`` It is not the pilot who directs the plane but the air traffic control staff , and thus evasive action may well be slower and less effective in order to maintain that control , '' he said.. DARPA 's 'Aerial Dragnet ' Will Monitor Drones in Cities While air traffic control systems track , guide and monitor thousands of planes and helicopters every day , one group of sky flyers remains unmonitored : drones .
+In recent years , small unmanned aerial vehicles ( UAVs ) , such as commercial quadcopters and hobby drones , have become less expensive and easier to fly - adding traffic to airspace that 's already congested .
+Drones are also more adaptable for terrorist or military purposes , and because they are currently flying unmonitored , U.S. forces want to be able to quickly detect and identify UAVs , especially in urban areas .
+A new project launched by the Defense Advanced Research Projects Agency ( DARPA ) , the Pentagon 's research arm , wants to map all small drone activity in urban settings .
+Managers of the Aerial Dragnet program are soliciting proposals to help the military provide continuous surveillance of drones on a city-wide scale .
+[ Humanoid Robots to Flying Cars : 10 Coolest DARPA Technologies ] `` Commercial websites currently exist that display in real time the tracks of relatively high and fast aircraft - from small general aviation planes to large airliners - all overlaid on geographical maps as they fly around the country and the world , '' DARPA program manager Jeff Krolik said in a statement .
+`` We want a similar capability for identifying and tracking slower , low-flying unmanned aerial systems , particularly in urban environments . ''
+Aerial Dragnet will initially focus on protecting military troops who are operating in urban settings overseas .
+However , DARPA said that the system could be applied stateside to help protect civilians in U.S. metropolitan areas from drone terrorist threats .
+While there are UAV tracking systems in development , these surveillance methods are focused on open areas .
+Urban areas present a particular challenge for monitoring small drones and other UAVs , because sight lines are very limited , according to DARPA officials .
+DARPA therefore envisions `` a network of surveillance nodes '' for Aerial Dragnet that uses sensor technologies that can look over and between buildings , tracking drones and UAVs even when the robotic flyers disappear from sight .
+This network could be mounted on long-endurance UAVs , resulting in a super drone network to monitor other drones - as an artist 's concept shows .
+The agency is hosting a Proposers Day on Sept. 26 for new technologies for the Aerial Dragnet program.. Kazan Ansat-U Trainer Helicopter , Russia Ansat-U , a trainer variant of the Ansat helicopter , is being produced by Kazan Helicopters for the Russian Air Force .
+The helicopter can be used for the training of cadets from military civil aviation schools and for the retraining of pilots .
+Kazan was selected to supply Ansat-U training helicopters to the Russian armed forces in September 2001 .
+The assembly of the first Ansat-U prototype was completed in April 2004 .
+Following the completion of tests , the full scale production of Ansat-U was authorised in December 2008 .
+Russia ordered ten helicopters in small batches between 2008 and 2009 .
+The helicopters were delivered to the Combat Training Centre in Torzhok and Syzran Higher Military Aviation School for Pilots in 2010 .
+The latest batch was delivered to the Air Force Training Centre in Syzran in 2011 .
+The Russian Air Force plans to induct a fleet of 30 Ansat-U trainer helicopters by 2020 .
+The Mozambique Government has also expressed interest in acquiring Ansat-U trainer helicopters .
+Ansat-U design and features `` The helicopter has an overall length of 13.5m , a cabin width of 1.68m and a height of 3.56m . ''
+The Ansat-U helicopter is a trainer modification of the Ansat helicopter .
+It incorporates redundant flight control systems and twin gas-turbine engines to deliver the high degree of safety required for training missions .
+The aircraft is equipped with a dual-control system and seating arrangement for six students .
+The helicopter has an overall length of 13.5m , a cabin width of 1.68m and a height of 3.56m .
+The fuselage length without tail boom is 6.9m .
+Ansat helicopter variants Related project Ka-27 28 and Ka-29 Helix Multirole Naval Helicopter The Ka-27 and Ka-28 are naval anti-submarine helicopters and the Ka-29 is a naval combat and transport helicopter , designed and manufactured by the Kamov Design Bureau in Russia .
+The transport variant of Ansat can carry up to ten passengers and 1,000kg of internal payload as well as 1,200kg of external cargo under-slung .
+It possesses the most spacious cabin ( 6.7m3 ) in its category .
+The Ansat SAR version is intended for search and rescue , the evacuation of casualties , and the transportation of special service personnel and their equipment .
+The variant features two stretchers for casualties , two seats for medical personnel , and a hatch for the loading of stretchers .
+The Ansat Ambulance variant is equipped with medical equipment , two stretchers , one seat for casualties and two seats for medical personnel .
+The VIP variant features sophisticated seating and other amenities for two VIPs and two attending personnel .
+Kazan Ansat-2RC is an attack helicopter variant armed with a 12.7mm machine gun and four hardpoints on two stub wings .
+The hardpoints can hold rocket launchers , bombs and anti-aircraft missiles .
+Cockpit and avionics The Ansat-U is crewed by one pilot .
+The cockpit is equipped with KSU-A digital fly-by-wire control system .
+The four-channel digital integrated system is capable of controlling the helicopter in all flight stages .
+The system allows the pilot to simulate engine shut off-mode without halting the engines .
+The helicopter can also be configured to provide various levels of control difficulty for pilot training .
+Engines and landing gear `` The Ansat-U can fly at a maximum altitude of 5,700m . ''
+The Ansat-U helicopter is powered by two PW207K turboshaft engines driving a four-blade main rotor and two-blade tail rotor .
+Each engine produces a continuous power of 561shp and maximum power of 630shp .
+The helicopter is equipped with an electronic engine management system .
+It ensures the pilots to practice various scenarios of engine failures .
+Ansat-U has a wheeled landing gear in place of the ski landing gear found in the base model .
+The landing gear consists of a steerable nose unit and two main landing gear sections .
+Ansat-U performance The Ansat-U can fly at a maximum altitude of 5,700m .
+The maximum hover ceiling ( out of ground effect ) is 3,300m .
+The maximum rate of climb of the helicopter is 21.5m sec .
+The maximum payload carrying capacity is 1,300kg .
+The helicopter has a cruise speed of 250km h and maximum range of 635km .
+The Velocity Never Exceed ( VNE ) speed is 285km h. HH-60W Combat Rescue Helicopter ( CRH ) , United States of America he HH-60W Combat Rescue Helicopter ( CRH ) is being developed by Sikorsky Aircraft Corporation in co-operation with Lockheed Martin for the US Air Force 's ( USAF ) CRH programme .
+It is an advanced variant of the combat-proven UH-60M Black Hawk helicopter .
+The new helicopter , also called 60-Whiskey , will replace HH-60G Pave Hawk medium-lift , combat search-and-rescue ( CSAR ) that entered service with the USAF in 1982 .
+The HH-60W can be deployed in casualty evacuation ( CASEVAC ) , medical evacuation ( MEDEVAC ) , non-combatant evacuation missions , civil search-and-rescue , humanitarian aid , disaster relief , and insertion or extraction of combat forces .
+CRH programme details The USAF announced the replacement of its aging HH-60G helicopters with new CRH in 2010 .
+A request for proposal ( RFP ) was issued for the CRH programme in October 2012 .
+Sikorsky teamed up with major subsystems supplier Lockheed Martin to offer a UH-60M derivative as the Air Force 's new combat rescue helicopter .
+`` The new helicopter will replace HH-60G Pave Hawk medium-lift , combat search-and-rescue ( CSAR ) that entered service with the USAF in 1982 . ''
+In June 2014 , the US Air Force awarded a $ 1.2bn engineering , manufacturing and development ( EMD ) contract to the Sikorsky-Lockheed Martin team to provide the next-generation combat rescue helicopter fleet .
+The scope of the contract covers development and integration of the rescue mission systems , four helicopters , as well as seven aircrew and maintenance training systems .
+The contract also includes options for the production of 112 HH-60W helicopters .
+The Sikorsky-Lockheed Martin team will deliver the helicopters with most advanced capabilities to support all services in combat .
+The new combat rescue helicopter was officially named as the HH-60W by the USAF in November 2014 .
+The preliminary design review ( PDR ) of HH-60W is scheduled for April 2016 , whereas training systems PDR is expected in December 2016 .
+The USAF plans to conduct the first test flight of HH-60W CRH in 2019 for fielding an operational helicopter in 2021 , while full-rate production is anticipated by 2023 .
+HH-60W helicopter design and features The design of HH-60W is based on the next-generation UH-60M Black Hawk helicopter .
+The rotorcraft integrates a crashworthy and damage-tolerant airframe .
+It retains composite , wide-chord , main rotor blades and corrosion-resistant structures of its predecessor .
+The helicopter will offer increased internal fuel capability than the HH-60G helicopter .
+It will deliver longer range , while offering a larger internal cabin space .
+It can accommodate two pilots , two gunners , two paramedics and two litters for medical patients or injured service members .
+Either side of the fuselage can be mounted with .50 calibre and 7.62mm machine guns .
+AS 532 U2 A2 Cougar Combat Search and Rescue Helicopter The Eurocopter Company manufactures the Cougar family of twin engine helicopters , of which more than 350 have been ordered .
+The helicopter will be equipped with Lockheed Martin 's mission planning system , defensive aids , data links , mission computers and adverse weather sensors .
+Cockpit and avionics The advanced glass cockpit will accommodate two pilots side-by-side .
+It will be equipped with Rockwell Collins ' state-of-the art avionics and mission equipment including cockpit flight and mission display system , navigation radios and the advanced ARC-210 V UHF communication system .
+The ARC-210 offers secure voice communications and civil interoperability .
+The system supports the integration of future advanced ad hoc networks and next-generation mobile users objective system ( MUOS ) satellite communication ( SATCOM ) for uninterrupted voice and data .
+The multi-function displays ( MFDs ) aboard the cockpit will comply with the latest night vision imaging system ( NVIS ) standards .
+The MFDs will support wide viewing angles for superior cross-cockpit viewing .
+The integrated cockpit flight and mission display system will deliver superior situational awareness while reducing pilot workload during the combat search-and-rescue missions .
+Engine The power-plant of HH-60W will integrate two General Electric T700-GE-701D turbo-shaft engines , which will develop a maximum continuous power of 1,716shp ( 1,279kW ) each .
+The engines will offer superior performance in adverse weather conditions.. Tupolev Tu-22M Strategic Bomber , Russia The Tupolev Tu-22M ( also known as Backfire ) is a long-range strategic and maritime strike bomber developed by Tupolev for the Soviet Air Force .
+The aircraft is currently in service with the Russian Air Force and Russian Naval Aviation .
+The Tu-22M was based on the design of the Tu-22 aircraft .
+The first Tu-22M-0 prototype completed its maiden flight in August 1969 .
+The Tu-22M-1 first flew in July 1971 and the Tu-22M was first deployed in combat missions in Afghanistan between 1987 and 1989 .
+The Tu-22M3 was used by Russia for combat operations in Chechnya in 1995 .
+The aircraft is primarily used to conduct nuclear strike and conventional attack operations .
+It can also be deployed in anti-ship and maritime reconnaissance missions .
+Tupolev Tu-22M variants `` The aircraft is primarily used to conduct nuclear strike and conventional attack operations . ''
+The earliest pre-production aircraft produced was the Tu-22M0 .
+Its production was limited to small numbers due to inadequate performance .
+It was followed by the Tu-22M1 pilot-production aircraft for the Soviet Naval Aviation .
+Production on the first major production version , Tu-22M2 began in 1972 .
+It was equipped with extended wings and a redesigned fuselage , twin engines and a new undercarriage .
+The Tu-22M3 was introduced with upgraded features to overcome the shortfalls of its predecessor .
+The aircraft completed its first flight in June 1977 and was inducted into the inventory in 1983 .
+Some of the Tu-22Ms were also modified to Tu-22MR and Tu-22ME standard .
+Tupolev Tu-22M design The Tupolev Tu-22M incorporates a long variable sweep wing fuselage design .
+The aircraft features a stepped cockpit and variable-geometry outer wing panels .
+The tail fin is swept-back and tapered with a square tip .
+The flats mounted on the centre of body are pointed with blunt tips and each wing includes a centre section and two outer panels .
+The outer wings are attached to the centre section through hinged joints .
+Tu-22M3 has a length of 42.4m , maximum wing span of 34.2m , and a height of 11.05m .
+The empty weight and maximum takeoff weights of the aircraft are 53,500kg and 126,400kg respectively .
+Cockpit Related project Tu-160 Blackjack Strategic Bomber , Russian Federation The Tu-160 supersonic strategic bomber ( NATO reporting name of Blackjack ) was manufactured by the Tupolev aircraft research and engineering complex joint stock company of Moscow and the Kazan-Gorbunov Aircraft Production Association in Tatarstan from 1980 to 1992 .
+The semi-glass cockpit accommodates a crew of four on upward-firing ejection seats .
+It is equipped with dedicated panels for pilots , navigator-operator and commander , with entry provided through individual doors .
+The pressurised cockpit is equipped with climate control systems .
+Armament The aircraft is provided with hard points to carry Kh-22 stand-off missiles , Kh-15 nuclear or Kh-15P anti-radar missiles and FAB-250 or FAB-1500 free fall bombs .
+The wing and fuselage pylons and internal weapons bay are provided with a capacity to carry 24,000kg of weapons payload .
+The aircraft is also armed with a double-barrelled GSH-23 ( 23mm ) gun in remotely controlled tail turret .
+Sensors radars The aircraft is fitted with PN-A PN-AD bombing-navigation radar system , Argon-2 radar fire-control system and a TV-based backup optical bomb sight .
+The countermeasures are provided by a radar warning receiver , radio-frequency jammers , and updated defensive countermeasures gear .
+Engines and landing gear `` The aircraft is equipped with tricycle landing gear to support operations on unprepared runways . ''
+The Tu-22M3 is powered by two Kuznetsov NK-25 turbofan engines installed in the body with large air intakes and dual exhausts .
+Each engine produces a maximum thrust of 25,000kg and delivers an improved fuel economy .
+The aircraft is equipped with tricycle landing gear to support operations on unprepared runways .
+The nose gear includes backward retractable twin wheels .
+Each main landing gear unit consists of six wheels in a 2x3 bogie arrangement .
+These are retracted straight in to the fuselage .
+The Tu-22M2 was equipped with twin brake slides and a runway arresting hook .
+Performance of the Tu-22M3 The Tu-22M3 can fly at a maximum altitude of 14,000m and the rate of climb of the aircraft is 15m s. The aircraft has a cruise speed of 900km h and maximum speed of 2,300km h. The operational range of the aircraft is 7,000km.. C295W Transport and Surveillance Aircraft , France C295W , the latest variant of C295 military transport aircraft , is being manufactured by Airbus Defence and Space .
+The new aircraft is equipped with winglets and uprated engines to deliver improved performance than its predecessor .
+The new generation C295W can be deployed in defence , homeland security , surveillance and humanitarian missions involving troops and cargo transport , air-dropping , communication and logistics support , anti-submarine and surface warfare , airborne early warning ( AEW ) , maritime surveillance , and medical evacuation ( MEDEVAC ) .
+Mexican Navy ( Semar ) is the launch customer for the new C295W aircraft .
+C295W orders and deliveries Bangladesh placed a contract with Airbus Defence and Space in October for a C295W medium airlifter , along with a customer support and training package .
+The aircraft will be delivered to the Bangladesh Army Aviation in the second half of 2017 .
+The Royal Thai Army ( RTA ) received a C295W military transport aircraft from Airbus Defence and Space in June 2016 .
+Airbus Defence and Space also received a contract from the Mali Air Force for a C295W transport and mission aircraft in February .
+Delivery of the same is scheduled to take place in the second half of this year .
+The Ministry of Interior of Saudi Arabia placed an order with Airbus Defence and Space for four C295W aircraft in June 2015 .
+Design and features of the C295 variant The C295W aircraft features a robust airframe integrating an optimised cabin and redundant systems .
+The medium-sized aircraft can operate either as a single transport fleet or complement heavy airlifters and transport helicopters .
+The new wing design with winglets allows for the carriage of more payload to long distances and ensures the aircraft to achieve 4 % fuel savings .
+The medium transport aircraft can be optionally fitted with a palletised aerial refuelling unit and associated computer control system to conduct air-to-air refuelling missions .
+The C295W features unobstructed cabin to carry up to 71 troops or up to 9t of cargo .
+The aircraft can accommodate up to five 88in x108in standard HCU-6E pallets , which can be off-loaded through its rear ramp door .
+Avionics suite architecture The glass cockpit incorporates an advanced integrated avionics system including four large active matrix liquid crystal displays .
+The open architecture of the avionics suite supports the installation of advanced equipment .
+The cockpit also integrates autopilot and flight director system .
+The aircraft is also equipped with fully integrated tactical system ( FITS ) , which coordinates the data from the mission sensors to enhance mission awareness and support decision making .
+Weapon systems fitted to C295W In July , Airbus Defence and Space and Roketsan Missiles Industries signed a memorandum of understanding ( MOU ) to integrate a range of weapon systems on the Airbus C295W aircraft .
+`` The new aircraft is equipped with winglets and uprated engines to deliver improved performance than its predecessor . ''
+The under-wing stations of the aircraft can be fitted with CIRIT 70mm laser-guided missile , LUMTAS laser-guided , long-range anti-tank missile , and TEBER laser-guided bomb .
+Aircraft countermeasures The aircraft is installed with self-defence equipment and systems including cockpit armour , radar warning receiver ( RWR ) , missile approach warning system ( MAWS ) , laser warning system ( LWS ) , and chaff flares dispensers .
+C295W engine and performance The C295W is equipped with two Pratt & Whitney Canada PW127G turboprop engines driving a pair of Hamilton Standard 586-F six-bladed propellers .
+The engines deliver superior performance in hot and high conditions .
+The C295W can fly at a maximum cruise speed of 480km h and can reach a maximum altitude of 25,000ft .
+Its low-level flight characteristics allow flying at a minimum speed of 110kt .
+The aircraft is equipped with a retractable tri-cycle landing gear , which enables operations even in the most austere locations with short , soft and rough unprepared airstrips.. Dominator MALE UAV , Israel The Dominator is a medium-altitude and long-endurance ( MALE ) unmanned aerial vehicle ( UAV ) , designed and manufactured by Israel-based Aeronautics Defence Systems to meet the requirements of Israel Defence Forces ( IDF ) .
+Developed from the Austrian Diamond DA42 aircraft , the Dominator UAV executes intelligence , surveillance and reconnaissance ( ISP ) operations .
+Flying at a maximum altitude of 30,000ft , the Dominator captures real time data by executing surveillance and reconnaissance missions over a large area .
+The data captured by the UAV is transferred to the ground control station ( GCS ) through a satellite communication line of sight data link .
+The UAV has accomplished 360,000 flight hours to date .
+Boeing signed a memorandum of understanding ( MoU ) with Aeronautics Defence Systems , at the Farnborough Air Show held in July 2010 , to market the Dominator UAV .
+Dominator unmanned aerial vehicle design The Dominator is designed to operate even in adverse climatic conditions .
+Its design complies with the missile technology control regime ( MTCR ) .
+The UAV has a commercial off-the-shelf airframe of all-composite construction which renders durability , reduces maintenance and enhances mission endurance .
+A three-bladed propeller is fitted on either side of the craft .
+An antenna is fitted on the top of the fuselage section for satellite communications .
+`` The Dominator captures real time data by executing surveillance and reconnaissance missions over a large area . ''
+Development Aeronautics Defence Systems developed two Dominator prototypes .
+The first prototype was introduced in 2005 in Israel .
+The development of the second prototype , Dominator II , was announced in February 2008 .
+The Dominator was showcased in the Paris Air Show held in June 2009 .
+Powered by two Thielert diesel engines , the Dominator II took its maiden flight in July 2009 at Southern Israel .
+Dominator UAV features The Dominator features a standard anti-icing system , identification friend or foe ( IFF ) system , UMASTM avionics suite , self-monitoring system , a thermal imaging camera , a new broadcast quality colour daylight camera , UMAS automated flight control system ( AFCS ) and brakes systems .
+It is equipped with automatic take-off and landing ( ATOL ) system which aids in executing ISR missions without the intervention of the ground control station operator .
+An electro-optic camera is fitted beneath the front fuselage section to capture battlefield imagery or videos .
+Navigation The Dominator UAV can be controlled either manually from the ground control station or through autonomous mode .
+It is incorporated with a fully automatic launch and recovery ( ALR ) system which aids in automatic safe landing during communication failure with the GCS .
+Sensors The UAV is fitted with a versatile sensor suite which includes electro-optic sensors and infrared sensors .
+The EO sensor converts light rays into electronic signals for capturing real imagery and battlefield videos .
+Radars The Dominator is equipped with synthetic aperture radar ( SAR ) , signal intelligence ( SIGINT ) , communication intelligence ( COMINT ) and laser range finder .
+Engines The Dominator is powered by two Centurion 2.0 diesel engines , each of which produces 135hp ( 100kW ) of output power .
+The Centurion 2.0 is a four-stroke diesel engine certified by the Federal Aviation Administration ( FAA ) in October 2006 .
+`` Aeronautics Defence Systems developed two Dominator prototypes . ''
+It is fitted with wet sump oil systems , a three bladed MT-propeller with hydraulic pitch controller and reduction gear box .
+Thielert Aircraft Engines is the prime contractor involved in the production of the engines .
+A full authority digital engine control ( FADEC ) incorporated in the engine facilitates automated missions .
+Both kerosene and diesel in any mixture ratio can be used as the fuel .
+The width and depth of the engine are 0.79m and 0.8m respectively .
+The height is 0.63m .
+The dry weight is 134kg .
+Ground control station The real-time data captured by the Dominator is retrieved , processed , stored and monitored at the ground control station ( GCS ) .
+Communication between the GCS and Dominator takes place through a line of sight data link up to 300km range .
+The GCS is designed and manufactured by Aeronautics Defence Systems .
+Performance The Dominator can fly at a maximum speed of 354km h. The range and service ceiling are 300km and 9,100m respectively .
+The UAV can loiter in air for a maximum of 28 hours.. International Internships : Danish Engineers on the F-35 Program Several years ago , a Lockheed Martin executive and one of his colleagues at a Dutch university saw an opportunity for students in the Netherlands to gain experience in the aerospace industry through internships on the F-35 program .
+What began as an idea between these colleagues to provide a learning opportunity for a small group of students has turned into a unique and exciting career opportunity for dozens of young Dutch and Danish engineers .
+In 2003 , the first interns from Delft University in the Netherlands came to Lockheed Martin 's Fort Worth facility for an extended internship on the F-35 program .
+This year , the first interns from Denmark were brought onto the program .
+Thor Andersen from Aarhus University was one of those first Danish interns .
+Thor worked with the quality engineering team on the F-35 line in Fort Worth , Texas .
+`` One of the most important things I learned from my experience was learning to see how processes are linked and how a change in one place may affect the product further down the production line , '' Thor says .
+`` This has made vital contributions to my personal engineering skills . ''
+Thor 's experience in Fort Worth gave him an opportunity to acquire a position with Terma A S , the Danish aerospace and defense manufacturer who also co-sponsors the intern program , as a design engineer shortly after returning home to Denmark .
+`` My greatest passion is aviation , so I was pleased to find myself reassured in my decision to pursue a career in the aerospace industry , '' he explains .
+The second class of Danish interns will begin their internship in January of 2016 , this time from Technical University of Denmark ( DTU ) .Supersonic Plane Sends Shock Waves Rippling Across the Sun ( Photo ) A supersonic plane recently zoomed past the sun , and its light-bending shock waves were captured in a stunning new image .
+The plane , a T-38C manned by a pilot for the U.S. Air Force Test Pilot School , was photographed using an updated version of a 150-year-old technique called Schlieren photography .
+Schlieren photography typically uses a bright light source and a speckled background to reveal changes in the density of air .
+Shock waves squish and stretch air , changing the air density .
+That , in turn , alters how light rays bounce off the air , and these changes show up in a shadow image .
+[ Supersonic !
+The 11 Fastest Military Planes ] Old technique , new spin In the past , Schlieren photography required a very bright light source and some complicated optics .
+As a result , it was typically performed only on supersonic planes in wind tunnels .
+However , NASA recently developed new methods of Schlieren photography , in which the sun or the moon forms both a luminous source and the mottled background needed for the images .
+A U.S. Air Force T-38 plane moving at Mach 1.05 generated shock waves that were captured by a photography technique .
+A U.S. Air Force T-38 plane moving at Mach 1.05 generated shock waves that were captured by a photography technique .
+Credit : NASA NASA has been working on the project in an effort to design quieter supersonic jets .
+The Federal Aviation Administration has banned the ear-splitting jets from flying over unrestricted air space since 1973 , because of their incredibly loud sonic booms .
+But if scientists better understand the shock-wave structure , they can predict when and where the shock wave is the loudest , according to NASA .
+In turn , this could help designers craft supersonic jets that produce quieter booms .
+NASA recently awarded a $ 20 million contract to Lockheed Martin to design a quieter supersonic jet .
+Early test flights could begin as soon as 2020 , assuming funding continues .
+Several companies are currently working on supersonic jets .
+For instance , Spike Aerospace is developing a commercial airliner that could speed from New York City to London in a mere 3 hours .
+The plane would fly at Mach 1.8 , or 1.8 times the speed of sound , ( 1,370 mph , or 2,205 km h ) .
+A more pie-in-the-sky ( or plane in the sky ? )
+idea aims to zoom people between the two big cities in just 30 minutes .
+That concept , called the Skreemr , would need a `` magnetic rail-gun launching '' system to take off and fly at 10 times the speed of sound , or about 7,600 mph ( 12,300 km h ) .Lighter planes are the future A global fleet of composite planes could reduce carbon emissions by up to 15 per cent , but the lighter planes alone will not enable the aviation industry to meet its emissions targets , according to new research .
+The study , by the Universities of Sheffield , Cambridge and UCL ( University College London ) , is the first to carry out a comprehensive life cycle assessment ( LCA ) of a composite plane , such as the Boeing Dreamliner 787 or Airbus 350 , and extrapolate the results to the global fleet .
+The LCA covers manufacture , use and disposal , using publicly available information on the Boeing Dreamliner 787 fuselage and from the supply chain - such as the energy usage of the robots that construct the planes .
+The study compares the results to the traditional - and heavier - aluminium planes .
+Emissions during the manufacture of composite planes are over double those of aluminium planes .
+But because the lighter aircraft use significantly less fuel , these increased emissions are offset after just a few international flights .
+Over its lifetime , a composite plane creates up to 20 per cent fewer CO2 emissions than its aluminium equivalent .
+Professor in Advanced Materials Technologies at the University of Sheffield , Alma Hodzic , says : `` This study shows that the fuel consumption savings with composites far outweigh the increased environmental impact from their manufacture .
+Despite ongoing debates within the industry , the environmental and financial savings from composites mean that these materials offer a much better solution . ''
+The researchers fed the data from the LCA into a wider transport model to gauge the impact on CO2 emissions as composite planes are introduced into the global fleet over the next 25 years , taking into account other factors including population , economic prosperity , oil prices and speed of adoption of the new technology .
+The study - published in the International Journal of Life Cycle Assessment - estimated that by 2050 , composite planes could reduce emissions from the global fleet by 14-15 per cent relative to a fleet that maintains its existing aluminium-based configuration .
+Professor in Energy and Transport at UCL , Andreas Schafer , explains : `` The overall emissions reduction for the global fleet is lower than the reduction for an individual plane , partly , because by 2050 , not all the fleet will be of composite construction .
+New planes entering the fleet before 2020 could still be in use by 2050 , but the faster the uptake of this technology , the greater the environmental benefits will be . ''
+Dr Lynette Dray from Cambridge 's Department of Architecture agrees : `` Given that global air traffic is projected to increase four-fold between now and 2050 , changing the materials used could avoid 500 million tonnes of CO2 emissions in 2050 alone , a value that roughly corresponds to current emission levels . ''
+Professor Hodzic adds : `` The industry target is to halve CO2 emissions for all aircraft by 2020 and while composites will contribute to this , it can not be achieved by the introduction of lighter composite planes alone .
+However , our findings show that composites - alongside other technology and efficiency measures - should be part of the picture .
+`` Drones Are Coming to Hollywood : FAA Clears Robot Flyers for Filming Lights !
+Camera !
+Take off !
+The Federal Aviation Administration ( FAA ) announced yesterday ( Sept. 25 ) that television and movie producers will now be able to use drones to capture high-flying aerial footage .
+U.S. Transportation Secretary Anthony Foxx announced that the agency has granted approval to six photo and video production companies to use drones for filming .
+But , these regulatory exemptions do come with strings attached .
+In exchange for the right to use their drones , production companies will have to complywith what the FAA said are measures to ensure the safe handling of these flying bots .
+[ Photos from Above : 8 Cool Camera-Carrying Drones ] `` Today 's announcement is a significant milestone in broadening commercial UAS [ unmanned aircraft system ] use while ensuring we maintain our world-class safety record in all forms of flight , '' Foxx said in a statement .
+The companies that were successful in applying for the exemptions had to agree to obtain pilot certificates for drone operators .
+They will also need to keep the robotic flyers within view during filming , and all drones will be restricted to particular areas on the set , according to the FAA .
+Furthermore , no unmanned aerial filming will be permitted at night under the new rules , and every drone will have to undergo inspection before flying , agency officials said .
+`` The applicants submitted UAS flight manuals with detailed safety procedures that were a key factor in our approval of their requests , '' FAA Administrator Michael Huerta said .
+`` We are thoroughly satisfied these operations will not pose a hazard to other aircraft or to people and property on the ground . ''
+Should there be any drone-related accidents or injuries on the set , production companies will be required to report such incidents to the FAA .
+While Thursday 's decision only applies to companies in the television and movie production industry , exemptions for other types of commercial drone use may soon follow , according to Foxx , who noted the potential use of drones in industries such as agriculture and energy .
+However , Foxx failed to mention anything about the future of drone use in more mainstream industries , such as e-commerce .
+Companies such as Amazon and Googlehave had their drone projects - aimed at making drone delivery services available to online shoppers - put on hold while they wait for official FAA regulations .
+Last year , the FAA laid out a preliminary plan for overseeing commercial drone use , but comprehensive guidelines for the flying bots are n't due to be announced until 2015 .
+But if the recent exemptions for filmmaking drones are any indication , drone delivery programs developed for e-commerce companies may fail to launch even after the FAA 's rules are put into effect , according to attorney Brendan Schulman , a special counsel with Kramer Levin Naftalis & Frankel in New York City and an expert in drone policy .
+`` I think [ the exemptions ] show the FAA is taking a very strict approach to the use of drones for commercial purposes .
+These companies had to effectively work their way around every regulation that might apply to a passenger aircraft doing the same thing , '' Schulman told Live Science .
+`` The result is a very complex and burdensome set of requirements just to take some film on a movie set . ''
+While Schulman concedes that any step forward is good for the commercial drone industry in the United States , he noted that some of the conditions the film companies must abide by in order to qualify for the FAA 's exemptions may take things too far .
+For example , the exemptions require a crew of three people to operate the drone , including one licensed pilot , Schulman said .
+Such a requirement , he said , might make it difficult for production companies with limited resources - think independent filmmakers - to take advantage of such exemptions .
+`` I think it threatens the benefit of the technology .
+It 's going to cost a lot of money and be very complicated , '' Schulman said .
+`` I think it 's a very small step forward .
+You might even say it 's a step backwards in terms of what it signals [ the FAA 's ] regulatory framework is going to look like in the future .
+`` C-160 Transall Cargo and Tactical Transport Aircraft , France The C-160 Transall aircraft are twin turboprop transporters in service with the air forces of France , Germany and Turkey .
+The aircraft is a cantilever high-wing monoplane and is configured for transportation , paratroop drop , electronic surveillance , airborne communications relay and medical evacuation .
+The companies MBB , Nord Aviation and VFW formed the Transall group in 1959 for the development and production of the C-160 for the air forces of France , Germany , South Africa and Turkey .
+Production of the aircraft by the three companies ended in 1972 , with 169 aircraft having been delivered .
+In 1976 , responsibility for production of the aircraft was given to Aerospatiale in France and MBB ( now DaimlerChrysler Aerospace ) in Germany .
+Both companies are now part of EADS ( European Aeronautics Defence and Space ) .
+Production of the aircraft from 1976 to 1985 included updated avionics , a reinforced wing housing and additional fuel tanks .
+The C-160 fleets of France , Germany , South Africa and Turkey will be replaced by the Airbus Military A400M transport when that enters service from 2012 .
+France has 55 aircraft still in service , Germany 80 and Turkey 20 .
+South Africa has retired its C-160 fleet .
+C-160H Astarte communications relay aircraft Four communications relay aircraft , designation C-160H Astarte , were delivered to the French Air Force between 1981 and 1987 .
+The aircraft 's main mission was communications with the submerged nuclear ballistic missile submarines of the French fleet .
+The aircraft were equipped with unjammable VLF communications including a Rockwell VLF transmitter and a Thales communications centre .
+The VLF system includes dual trailing wire antennae .
+The French Air Force retired the C-160H Astarte aircraft in 2002 .
+C-160 Gabriel ELINT electronic surveillance aircraft The C-160 Gabriel aircraft is an upgraded electronic surveillance version in service with the French Air Force .
+Thales developed the signals intelligence ( sigint ) system .
+The main cabin houses the workstations and computer systems for ten elint ( electronic intelligence ) and comint ( communications intelligence ) mission crew .
+In September 2008 , Thales was awarded a contract to upgrade the ELINT system .
+C-160 upgrade programmes An upgrade programme for the French Air Force C-160 was completed in 1999 .
+All C-160 Transall aircraft were upgraded with modern avionics suite and new anti-missile countermeasures between 1994 and 1999 .
+The upgraded cockpit is equipped with a new head-up display and an upgraded electronic warfare suite , with a radar warning receiver , missile approach warner and chaff and decoy dispensers .
+`` The main cabin can be fitted to carry 93 troops or up to 68 fully equipped paratroops . ''
+The aircraft have been fitted with a new EFIS 854 TF Electronic Flight Instrumentation System , which includes an electronic attitude director indicator ( EADI ) and electronic horizontal situation indicator ( EHSI ) .
+A flight management system with two Gemini 10 computers and a new radio management system have been installed .
+Three new sensors have also been installed for aircraft position and attitude control : an inertial reference unit ( IRU ) , an attitude and heading reference unit ( AHRU ) , and a global positioning system ( GPS ) .
+German Air Force C-160D are upgraded with BAE SYSTEMS high integration air data computer ( HIADC ) , Northrop Grumman ( Litton ) ALR-68 radar warning systems and Rockwell Collins FMS-800 Flight Management and Global Positioning System .
+21 aircraft have also been fitted with an EADS countermeasures suite , Northrop Grumman AN AAR-54 ( V ) missile warning system and chaff flare launcher .
+Cockpit The air-conditioned and pressurised cockpit accommodates four crew : the pilot and co-pilot , the flight engineer , and the navigator .
+The pressurisation and air-conditioning system is supplied by Normalair-Garrett .
+Transport The main cabin can be fitted to carry 93 troops or up to 68 fully equipped paratroops .
+For medical evacuation , the cabin can accommodate 62 stretcher patients .
+In the cargo transporter role , the aircraft can carry a maximum payload of 16,000kg , including armoured vehicles , tanks and palletised or unpalletised loads .
+The floor is fitted with lashing points rated at 5,000kg on a 20in grid pattern .
+Lashing points rated at 12,000kg are fitted in the side walls of the cabin .
+The aircraft wheels can be raised in order to lower the fuselage for loading and unloading .
+Vehicles are driven into the cabin and an automated translation and stowing system is used for loading and unloading of cargo items which are not driven .
+`` The C-160 transporter aircraft can carry a maximum payload of 16,000kg . ''
+Loads up to 8,000kg can be air-dropped .
+The aircraft can carry out low-level altitude drops at altitudes between 10ft and 30ft , and touch-and-go drops in which the aircraft briefly touches the runway without landing .
+Engines The aircraft is powered by two Rolls-Royce Tyne Rty.20 mk22 turboprop engines , each rated at 4,549kW .
+The engines drive four-blade , reversible-pitch , constant-speed BAe 4 8000 6 propellers , built by Ratier Figeac in France .
+The fuel system includes four wing tanks with a capacity of 19,000l , an optional wing centre section tank with a capacity of 9,000l and a single-point pressure refuelling system .
+The aircraft is equipped with an in-flight refuelling probe mounted above and behind the flight deck .
+Performance The C-160 can climb at the rate of 6.6m s. The never exceed speed is 593km h. The C-160 's maximum speed is 513km h. Its stall speed is 177km h. Its normal range and ferry range are 1,853km and 8,858km respectively .
+The service ceiling is 8,230m .
+The aircraft weighs 29,000kg , while the maximum take-off weight is 51,000kg .
