@@ -2,17 +2,16 @@
 # -*- coding: utf-8 -*-
 """
 -------------------------------------------------
-   File Name:ner
-   Author:admin
+   File Name:test
+   Author:jason
    date:2018/4/11
 -------------------------------------------------
    Change Activity:2018/4/11:
 -------------------------------------------------
 """
 from nltk import pos_tag
-from nltk.chunk import conlltags2tree, tree2conllstr
-from stanfordcorenlp import StanfordCoreNLP
-
+from nltk.chunk import conlltags2tree,tree2conllstr
+from nltk.tree import Tree
 
 def stanfordNE2BIO(tagged_sent):
 	bio_tagged_sent = []
@@ -45,25 +44,12 @@ def stanfordNE2tree(ne_tagged_sent):
 	return ne_tree
 
 
-dlimiter = '\t'
+ne_tagged_sent = [('Rami', 'PERSON'), ('Eid', 'PERSON'), ('is', 'O'),
+                  ('studying', 'O'), ('at', 'O'), ('Stony', 'ORGANIZATION'),
+                  ('Brook', 'ORGANIZATION'), ('University', 'ORGANIZATION'),
+                  ('in', 'O'), ('NY', 'LOCATION')]
 
-if __name__ == '__main__':
-	input = "../data/sents/sents2.txt.utf-8"
-	output = "../data/nered/nered2.txt.utf-8"
-	
-	nlp = StanfordCoreNLP("c:/stanford-corenlp-full-2018-02-27")
-	
-	sents = []
-	with open(input, 'r', encoding='utf-8') as f:
-		sents = f.readlines()
-	
-	with open(output, 'w', encoding='utf-8') as f:
-		for sent in sents:
-			ner_sent = nlp.ner(sent)
-			for word_with_tag in stanfordNE2BIO(ner_sent):
-				f.write(dlimiter.join(word_with_tag))
-				f.write("\n")
-			f.write("\n")
-	nlp.close()
-
-# https://www.e-learn.cn/content/wangluowenzhang/168232
+ne_tree = stanfordNE2tree(ne_tagged_sent)
+print(ne_tree)
+print(tree2conllstr(ne_tree))
+print(stanfordNE2BIO(ne_tagged_sent))
