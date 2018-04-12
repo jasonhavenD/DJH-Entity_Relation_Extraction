@@ -26,7 +26,7 @@ if __name__ == '__main__':
 	with open(output, 'w', encoding='utf-8') as f:
 		for sent in rst:
 			for dep, pre, cur in sent:
-				f.write("{}\t{}\t{}\n".format(cur, pre, dep))
+				f.write("{}/{}/{}\t".format(cur, pre, dep))
 		f.write('\n')
 
 	nlp.close()

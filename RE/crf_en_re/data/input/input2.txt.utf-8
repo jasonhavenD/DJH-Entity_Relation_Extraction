@@ -1,92 +1,72 @@
-Penn	NNP	B-ORGANIZATION
-State	NNP	I-ORGANIZATION
-awarded	VBD	O
-$	$	B-MONEY
-13	CD	I-MONEY
-million	CD	I-MONEY
-for	IN	O
-vertical	JJ	O
-lift	NN	O
-technology	NN	O
-research	NN	O
-UNIVERSITY	NNP	B-CITY
-PARK	NNP	I-CITY
-,	,	O
-Pa.	NNP	B-STATE_OR_PROVINCE
--	:	O
-The	DT	O
-Penn	NNP	B-ORGANIZATION
-State	NNP	I-ORGANIZATION
-Vertical	NNP	I-ORGANIZATION
-Lift	NNP	I-ORGANIZATION
-Research	NNP	I-ORGANIZATION
-Center	NNP	I-ORGANIZATION
-of	IN	O
-Excellence	NNP	O
--LRB-	NNP	O
-VLRCOE	NNP	O
--RRB-	NNP	O
-was	VBD	O
-awarded	VBN	O
-$	$	B-MONEY
-13,786,974	CD	I-MONEY
-in	IN	O
-funding	NN	O
-through	IN	O
-a	DT	O
-cooperative	JJ	O
-agreement	NN	O
-with	IN	O
-the	DT	O
-U.S.	NNP	B-ORGANIZATION
-Army	NNP	I-ORGANIZATION
-,	,	O
-U.S.	NNP	B-ORGANIZATION
-Navy	NNP	I-ORGANIZATION
-and	CC	O
-the	DT	O
-National	NNP	B-ORGANIZATION
-Aeronautics	NNP	I-ORGANIZATION
-and	CC	I-ORGANIZATION
-Space	NNP	I-ORGANIZATION
-Administration	NNP	I-ORGANIZATION
-to	TO	O
-support	VB	O
-a	DT	O
-wide	JJ	O
-range	NN	O
-of	IN	O
-fundamental	JJ	O
-research	NN	O
-related	VBN	O
-to	TO	O
-vertical	JJ	O
-lift	NN	O
-technology	NN	O
-and	CC	O
-educational	JJ	O
-activities	NNS	O
-for	IN	O
-students	NNS	O
-.	.	O
-
-Vertical	JJ	O
-lift	NN	O
-technology	NN	O
-generally	RB	O
-covers	VBZ	O
-the	DT	O
-class	NN	O
-of	IN	O
-aircraft	NN	O
-that	WDT	O
-can	MD	O
-land	VB	O
-and	CC	O
-take	VB	O
-off	RP	O
-without	IN	O
-a	DT	O
-runway	NN	O
-.	.	O
+Penn	NNP	B-ORGANIZATION	0	ROOT
+State	NNP	I-ORGANIZATION	2	compound
+awarded	VBD	O	3	nsubj
+$	$	B-MONEY	3	dobj
+13	CD	I-MONEY	6	compound
+million	CD	I-MONEY	4	nummod
+for	IN	O	13	case
+vertical	JJ	O	13	amod
+lift	NN	O	13	compound
+technology	NN	O	13	compound
+research	NN	O	13	compound
+UNIVERSITY	NNP	B-CITY	13	compound
+PARK	NNP	I-CITY	30	nmod
+,	,	O	13	punct
+Pa.	NNP	B-STATE_OR_PROVINCE	13	appos
+-	:	O	13	punct
+The	DT	O	23	compound
+Penn	NNP	B-ORGANIZATION	23	compound
+State	NNP	I-ORGANIZATION	23	compound
+Vertical	NNP	I-ORGANIZATION	23	compound
+Lift	NNP	I-ORGANIZATION	23	compound
+Research	NNP	I-ORGANIZATION	23	compound
+Center	NNP	I-ORGANIZATION	30	nsubjpass
+of	IN	O	25	case
+Excellence	NNP	O	23	nmod
+-LRB-	NNP	O	27	punct
+VLRCOE	NNP	O	25	appos
+-RRB-	NNP	O	27	punct
+was	VBD	O	30	auxpass
+awarded	VBN	O	4	acl:relcl
+$	$	B-MONEY	32	dep
+13,786,974	CD	I-MONEY	30	dobj
+in	IN	O	34	mark
+funding	NN	O	30	advcl
+through	IN	O	38	case
+a	DT	O	38	det
+cooperative	JJ	O	38	amod
+agreement	NN	O	34	nmod
+with	IN	O	42	case
+the	DT	O	42	det
+U.S.	NNP	B-ORGANIZATION	42	compound
+Army	NNP	I-ORGANIZATION	38	nmod
+,	,	O	42	punct
+U.S.	NNP	B-ORGANIZATION	45	compound
+Navy	NNP	I-ORGANIZATION	42	conj
+and	CC	O	42	cc
+the	DT	O	49	det
+National	NNP	B-ORGANIZATION	49	compound
+Aeronautics	NNP	I-ORGANIZATION	42	conj
+and	CC	I-ORGANIZATION	49	cc
+Space	NNP	I-ORGANIZATION	52	compound
+Administration	NNP	I-ORGANIZATION	49	conj
+to	TO	O	54	mark
+support	VB	O	38	acl
+a	DT	O	57	det
+wide	JJ	O	57	amod
+range	NN	O	54	dobj
+of	IN	O	60	case
+fundamental	JJ	O	60	amod
+research	NN	O	57	nmod
+related	VBN	O	60	amod
+to	TO	O	65	case
+vertical	JJ	O	65	amod
+lift	NN	O	65	compound
+technology	NN	O	61	nmod
+and	CC	O	65	cc
+educational	JJ	O	68	amod
+activities	NNS	O	65	conj
+for	IN	O	70	case
+students	NNS	O	65	nmod
+.	.	O	3	punct
 

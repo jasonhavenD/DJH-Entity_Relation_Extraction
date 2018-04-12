@@ -1,347 +1,152 @@
-docno	NN	O
-:	:	O
-1111Transition	CD	O
-services	NNS	O
-now	RB	B-DATE
-mandatory	VBP	O
-for	IN	O
-soldiersBy	NN	O
-Jim	NNP	B-PERSON
-Tice	NNP	I-PERSON
--	:	O
-Staff	NN	O
-writerPosted	VBN	O
-:	:	O
-Tuesday	NNP	B-DATE
-Apr	NNP	I-DATE
-3	CD	I-DATE
-,	,	I-DATE
-2012	CD	I-DATE
-16:44:56	CD	B-TIME
-EDTFORT	NNP	O
-KNOX	NNP	O
-,	,	O
-Ky.	NNP	B-STATE_OR_PROVINCE
--	:	O
-Soldiers	NNS	O
-now	RB	B-DATE
-must	MD	O
-participate	VB	O
-in	IN	O
-transition	NN	O
-services	NNS	O
-before	IN	O
-they	PRP	O
-leave	VBP	O
-active	JJ	O
-duty.An	NN	O
-execution	NN	B-CAUSE_OF_DEATH
-order	NN	O
-requiring	VBG	O
-them	PRP	O
-to	TO	O
-make	VB	O
-use	NN	O
-of	IN	O
-the	DT	O
-services	NNS	O
-is	VBZ	O
-in	IN	O
-force	NN	O
-throughout	IN	O
-the	DT	O
-Army.The	NNP	O
-order	NN	O
-applies	NNS	O
-to	TO	O
-all	DT	O
-soldiers	NNS	O
-who	WP	O
-are	VBP	O
-leaving	VBG	O
-active	JJ	O
-duty	NN	O
-,	,	O
-whether	IN	O
-they	PRP	O
-are	VBP	O
-Regular	JJ	B-ORGANIZATION
-Army	NNP	I-ORGANIZATION
-members	NNS	O
-who	WP	O
-are	VBP	O
-separating	VBG	O
-or	CC	O
-retiring	VBG	O
-or	CC	O
-reservists	NNS	O
-demobilizing	VBG	O
-after	IN	O
-six	CD	B-DURATION
-months	NNS	I-DURATION
-or	CC	O
-more	JJR	O
-on	IN	O
-active	JJ	O
-duty.The	NN	O
-order	NN	O
-,	,	O
-which	WDT	O
-implements	VBZ	O
-a	DT	O
-directive	JJ	O
-issued	VBN	O
-last	JJ	B-DATE
-year	NN	I-DATE
-by	IN	O
-Army	NNP	B-ORGANIZATION
-Secretary	NNP	B-TITLE
-John	NNP	B-PERSON
-McHugh	NNP	I-PERSON
-,	,	O
-further	JJ	O
-requires	VBZ	O
-that	IN	O
-transition	NN	O
-processing	NN	O
-begin	NN	O
-at	IN	B-DURATION
-least	JJS	I-DURATION
-12	CD	I-DURATION
-months	NNS	I-DURATION
-before	IN	O
-a	DT	O
-soldier	NN	B-TITLE
-leaves	VBZ	O
-active	JJ	O
-duty	NN	O
-and	CC	O
-that	IN	O
-the	DT	O
-soldier	NN	B-TITLE
-'s	POS	O
-commander	NN	B-TITLE
-oversee	VBD	O
-the	DT	O
-process.The	JJ	O
-new	JJ	O
-procedures	NNS	O
-will	MD	O
-be	VB	O
-bolstered	VBN	O
-later	RBR	B-DATE
-this	DT	I-DATE
-year	NN	I-DATE
-when	WRB	O
-the	DT	O
-Veterans	NNP	B-MISC
-Opportunity	NNP	I-MISC
-to	TO	I-MISC
-Work	NNP	I-MISC
-Act	NNP	I-MISC
-is	VBZ	O
-implemented	VBN	O
-Nov.	NNP	B-DATE
-20	CD	I-DATE
-for	IN	O
-all	PDT	O
-the	DT	O
-military	JJ	O
-services	NNS	O
-.	.	O
-
-``	``	O
-From	IN	O
-the	DT	O
-Army	NNP	B-ORGANIZATION
-standpoint	NN	O
-,	,	O
-we	PRP	O
-are	VBP	O
-planning	VBG	O
-for	IN	O
-that	DT	O
-mandate	NN	O
-,	,	O
-and	CC	O
-getting	VBG	O
-additional	JJ	O
-resources	NNS	O
-to	TO	O
-support	VB	O
-implementation	NN	O
-across	IN	O
-the	DT	O
-active	JJ	O
-and	CC	O
-reserve	JJ	O
-components	NNS	O
-,	,	O
-''	''	O
-said	VBD	O
-Walter	NNP	B-PERSON
-M.	NNP	I-PERSON
-Herd	NNP	I-PERSON
-,	,	O
-director	NN	B-TITLE
-of	IN	O
-the	DT	O
-Army	NNP	B-ORGANIZATION
-Career	NNP	I-ORGANIZATION
-and	CC	O
-Alumni	NNP	O
-Program.This	NNP	O
-will	MD	O
-result	VB	O
-in	IN	O
-about	IN	O
-a	DT	O
-300	CD	B-PERCENT
-percent	NN	I-PERCENT
-increase	NN	O
-in	IN	O
-the	DT	O
-number	NN	O
-of	IN	O
-soldiers	NNS	O
-participating	VBG	O
-in	IN	O
-transition	NN	O
-services	NNS	O
-,	,	O
-Herd	NNP	O
-said.ACAP	NN	O
-,	,	O
-a	DT	O
-longtime	JJ	O
-Army	NNP	B-ORGANIZATION
-program	NN	O
-,	,	O
-assists	VBZ	O
-departing	VBG	O
-soldiers	NNS	O
-,	,	O
-family	NN	O
-members	NNS	O
-and	CC	O
-Army	NNP	B-ORGANIZATION
-career	NN	O
-civilians	NNS	O
-in	IN	O
-preparing	VBG	O
-for	IN	O
-civilian	JJ	O
-life	NN	O
-through	IN	O
-myriad	JJ	O
-counseling	NN	O
-,	,	O
-education	NN	O
-,	,	O
-job-preparation	NN	O
-and	CC	O
-job-search	NN	O
-services	NNS	O
-at	IN	O
-54	CD	B-NUMBER
-centers	NNS	O
-in	IN	O
-the	DT	O
-U.S.	NNP	B-COUNTRY
-and	CC	O
-overseas.The	JJ	O
-centers	NNS	O
-are	VBP	O
-staffed	VBN	O
-by	IN	O
-counselors	NNS	O
-who	WP	O
-have	VBP	O
-graduate	NN	O
-degrees	NNS	O
-in	IN	O
-counseling	NN	O
-and	CC	O
-who	WP	O
-can	MD	O
-link	VB	O
-up	RP	O
-departing	VBG	O
-soldiers	NNS	O
-with	IN	O
-training	NN	O
-and	CC	O
-services	NNS	O
-offered	VBN	O
-by	IN	O
-the	DT	O
-Army	NNP	B-ORGANIZATION
-and	CC	O
-other	JJ	O
-government	NN	O
-agencies	NNS	O
-,	,	O
-such	JJ	O
-as	IN	O
-the	DT	O
-Labor	NNP	B-ORGANIZATION
-and	CC	O
-Veterans	NNP	B-ORGANIZATION
-Affairs	NNP	I-ORGANIZATION
-departments.ACAP	NN	I-ORGANIZATION
-also	RB	O
-operates	VBZ	O
-a	DT	O
-new	JJ	O
-24-hour	JJ	B-DURATION
-,	,	O
-seven-day-a-week	JJ	B-DURATION
-call	NN	O
-center	NN	O
-here	RB	O
-,	,	O
-and	CC	O
-an	DT	O
-interactive	JJ	O
-website	NN	O
-for	IN	O
-the	DT	O
-virtual	JJ	O
-delivery	NN	O
-of	IN	O
-information	NN	O
-and	CC	O
-services	NNS	O
-,	,	O
-to	TO	O
-include	VB	O
-counseling.Regular	JJ	B-ORGANIZATION
-Army	NNP	I-ORGANIZATION
-soldiers	NNS	O
-leaving	VBG	O
-active	JJ	O
-duty	NN	O
-should	MD	O
-begin	VB	O
-their	PRP$	O
-transition	NN	O
-24	CD	B-DURATION
-months	NNS	I-DURATION
-in	IN	O
-advance	NN	O
-of	IN	O
-retirement	NN	O
-and	CC	O
-18	CD	B-DURATION
-to	TO	I-DURATION
-12	CD	I-DURATION
-months	NNS	I-DURATION
-in	IN	O
-advance	NN	O
-of	IN	O
-separation	NN	O
-,	,	O
-Herd	NNP	B-PERSON
-said	VBD	O
-.	.	O
+docno	NN	O	0	ROOT
+:	:	O	1	punct
+1111Transition	CD	O	4	compound
+services	NNS	O	1	dep
+now	RB	B-DATE	6	advmod
+mandatory	VBP	O	4	amod
+for	IN	O	10	case
+soldiersBy	NN	O	10	compound
+Jim	NNP	B-PERSON	10	compound
+Tice	NNP	I-PERSON	6	nmod
+-	:	O	10	punct
+Staff	NN	O	13	compound
+writerPosted	VBN	O	10	dep
+:	:	O	4	punct
+Tuesday	NNP	B-DATE	16	compound
+Apr	NNP	I-DATE	29	nsubj
+3	CD	I-DATE	16	nummod
+,	,	I-DATE	16	punct
+2012	CD	I-DATE	20	compound
+16:44:56	CD	B-TIME	16	nummod
+EDTFORT	NNP	O	22	compound
+KNOX	NNP	O	16	dep
+,	,	O	22	punct
+Ky.	NNP	B-STATE_OR_PROVINCE	22	appos
+-	:	O	16	punct
+Soldiers	NNS	O	16	dep
+now	RB	B-DATE	29	advmod
+must	MD	O	29	aux
+participate	VB	O	4	dep
+in	IN	O	32	case
+transition	NN	O	32	compound
+services	NNS	O	29	nmod
+before	IN	O	35	mark
+they	PRP	O	35	nsubj
+leave	VBP	O	29	advcl
+active	JJ	O	39	amod
+duty.An	NN	O	39	amod
+execution	NN	B-CAUSE_OF_DEATH	39	compound
+order	NN	O	35	dobj
+requiring	VBG	O	39	acl
+them	PRP	O	40	dobj
+to	TO	O	43	mark
+make	VB	O	40	xcomp
+use	NN	O	43	dobj
+of	IN	O	47	case
+the	DT	O	47	det
+services	NNS	O	44	nmod
+is	VBZ	O	50	cop
+in	IN	O	50	case
+force	NN	O	29	advcl
+throughout	IN	O	54	case
+the	DT	O	54	det
+Army.The	NNP	O	54	compound
+order	NN	O	50	nmod
+applies	NNS	O	50	acl
+to	TO	O	58	case
+all	DT	O	58	det
+soldiers	NNS	O	55	nmod
+who	WP	O	61	nsubj
+are	VBP	O	61	aux
+leaving	VBG	O	58	acl:relcl
+active	JJ	O	63	amod
+duty	NN	O	61	dobj
+,	,	O	50	punct
+whether	IN	O	70	mark
+they	PRP	O	70	nsubj
+are	VBP	O	70	cop
+Regular	JJ	B-ORGANIZATION	70	amod
+Army	NNP	I-ORGANIZATION	70	compound
+members	NNS	O	50	dep
+who	WP	O	73	nsubj
+are	VBP	O	73	aux
+separating	VBG	O	70	acl:relcl
+or	CC	O	73	cc
+retiring	VBG	O	73	conj
+or	CC	O	73	cc
+reservists	NNS	O	78	nsubj
+demobilizing	VBG	O	73	conj
+after	IN	O	81	case
+six	CD	B-DURATION	81	nummod
+months	NNS	I-DURATION	78	nmod
+or	CC	O	83	cc
+more	JJR	O	81	nummod
+on	IN	O	87	case
+active	JJ	O	87	amod
+duty.The	NN	O	87	compound
+order	NN	O	78	nmod
+,	,	O	87	punct
+which	WDT	O	90	nsubj
+implements	VBZ	O	87	acl:relcl
+a	DT	O	92	det
+directive	JJ	O	90	dobj
+issued	VBN	O	92	acl
+last	JJ	B-DATE	95	amod
+year	NN	I-DATE	93	nmod:tmod
+by	IN	O	100	case
+Army	NNP	B-ORGANIZATION	100	compound
+Secretary	NNP	B-TITLE	100	compound
+John	NNP	B-PERSON	100	compound
+McHugh	NNP	I-PERSON	93	nmod
+,	,	O	70	punct
+further	JJ	O	103	advmod
+requires	VBZ	O	70	dep
+that	IN	O	107	mark
+transition	NN	O	106	compound
+processing	NN	O	107	nsubj
+begin	NN	O	103	ccomp
+at	IN	B-DURATION	109	case
+least	JJS	I-DURATION	110	nmod:npmod
+12	CD	I-DURATION	111	nummod
+months	NNS	I-DURATION	107	nmod:tmod
+before	IN	O	115	mark
+a	DT	O	114	det
+soldier	NN	B-TITLE	115	nsubj
+leaves	VBZ	O	107	advcl
+active	JJ	O	117	amod
+duty	NN	O	115	dobj
+and	CC	O	107	cc
+that	IN	O	124	mark
+the	DT	O	121	det
+soldier	NN	B-TITLE	123	nmod:poss
+'s	POS	O	121	case
+commander	NN	B-TITLE	124	nsubj
+oversee	VBD	O	107	conj
+the	DT	O	128	det
+process.The	JJ	O	128	compound
+new	JJ	O	128	amod
+procedures	NNS	O	131	nsubjpass
+will	MD	O	131	aux
+be	VB	O	131	auxpass
+bolstered	VBN	O	124	ccomp
+later	RBR	B-DATE	134	advmod
+this	DT	I-DATE	134	det
+year	NN	I-DATE	131	nmod:tmod
+when	WRB	O	143	advmod
+the	DT	O	138	det
+Veterans	NNP	B-MISC	138	compound
+Opportunity	NNP	I-MISC	143	nsubjpass
+to	TO	I-MISC	141	case
+Work	NNP	I-MISC	141	compound
+Act	NNP	I-MISC	138	nmod
+is	VBZ	O	143	auxpass
+implemented	VBN	O	131	advcl
+Nov.	NNP	B-DATE	143	nmod:tmod
+20	CD	I-DATE	144	nummod
+for	IN	O	150	case
+all	PDT	O	150	det:predet
+the	DT	O	150	det
+military	JJ	O	150	amod
+services	NNS	O	143	nmod
+.	.	O	1	punct
 

@@ -9,47 +9,19 @@
    Change Activity:2018/4/11:
 -------------------------------------------------
 """
-from nltk import pos_tag
-from nltk.chunk import conlltags2tree,tree2conllstr
-from nltk.tree import Tree
 
-def stanfordNE2BIO(tagged_sent):
-	bio_tagged_sent = []
-	prev_tag = "O"
-	for token, tag in tagged_sent:
-		if tag == "O":  # O
-			bio_tagged_sent.append((token, tag))
-			prev_tag = tag
-			continue
-		if tag != "O" and prev_tag == "O":  # Begin NE
-			bio_tagged_sent.append((token, "B-" + tag))
-			prev_tag = tag
-		elif prev_tag != "O" and prev_tag == tag:  # Inside NE
-			bio_tagged_sent.append((token, "I-" + tag))
-			prev_tag = tag
-		elif prev_tag != "O" and prev_tag != tag:  # Adjacent NE
-			bio_tagged_sent.append((token, "B-" + tag))
-			prev_tag = tag
-	
-	return bio_tagged_sent
+import codecs
 
+if __name__ == '__main__':
+	input1 = "../data/sents/sents1.txt.utf-8"
+	input2 = "../data/raw/raw1_sents.txt.utf-8"
+	text1 = codecs.open(input1, 'r', encoding='utf-8').readlines()
+	text2 = codecs.open(input2, 'r', encoding='utf-8').readlines()
 
-def stanfordNE2tree(ne_tagged_sent):
-	bio_tagged_sent = stanfordNE2BIO(ne_tagged_sent)
-	sent_tokens, sent_ne_tags = zip(*bio_tagged_sent)
-	sent_pos_tags = [pos for token, pos in pos_tag(sent_tokens)]
-	
-	sent_conlltags = [(token, pos, ne) for token, pos, ne in zip(sent_tokens, sent_pos_tags, sent_ne_tags)]
-	ne_tree = conlltags2tree(sent_conlltags)
-	return ne_tree
+	print(len(text1),len(text2))
 
-
-ne_tagged_sent = [('Rami', 'PERSON'), ('Eid', 'PERSON'), ('is', 'O'),
-                  ('studying', 'O'), ('at', 'O'), ('Stony', 'ORGANIZATION'),
-                  ('Brook', 'ORGANIZATION'), ('University', 'ORGANIZATION'),
-                  ('in', 'O'), ('NY', 'LOCATION')]
-
-ne_tree = stanfordNE2tree(ne_tagged_sent)
-print(ne_tree)
-print(tree2conllstr(ne_tree))
-print(stanfordNE2BIO(ne_tagged_sent))
+	i = 1
+	for sent1, sent2 in zip(text1, text2):
+		if sent1[:2] != sent2[:2]:
+			print(i, sent1)
+		i = i + 1
