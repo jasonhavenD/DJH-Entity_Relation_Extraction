@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 -------------------------------------------------
-   File Name:extract_tags
+   File Name:sent_tokenize
    Author:admin
    date:2018/4/11
 -------------------------------------------------
@@ -10,15 +10,15 @@
 -------------------------------------------------
 """
 import nltk
-import re
 
 if __name__ == '__main__':
-	input = "../data/tagged/tagged1.txt.utf-8"
-	output = "../data/tagged/tags_rule.txt"
+	input = "raw1_with_tag.txt.utf-8"
+	output = "raw1_tags_sents.txt.utf-8"
+
 	text = ""
 	with open(input, 'r', encoding='utf-8') as f:
 		text = f.read()
-	pattern = re.compile("</(.+?)>")
-	tags = sorted(set(t for t in re.findall(pattern, text)))
+	sents = nltk.sent_tokenize(text)
+
 	with open(output, 'w', encoding='utf-8') as f:
-		f.write('\t'.join(tags))
+		f.writelines('\n'.join(sents))

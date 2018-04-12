@@ -64,6 +64,7 @@ if __name__ == '__main__':
 				f.write('/'.join(word_with_tag))
 				f.write(dlimiter)
 			f.write("\n")
+
 	nlp.close()
 
 # https://www.e-learn.cn/content/wangluowenzhang/168232
