@@ -48,8 +48,8 @@ def stanfordNE2tree(ne_tagged_sent):
 dlimiter = '\t'
 
 if __name__ == '__main__':
-	input = "../data/sents/sents2.txt.utf-8"
-	output = "../data/nered/nered2.txt.utf-8"
+	input = "../data/sents/sents1.txt.utf-8"
+	output = "../data/nered/nered1.txt.utf-8"
 	
 	nlp = StanfordCoreNLP("c:/stanford-corenlp-full-2018-02-27")
 	
@@ -61,8 +61,8 @@ if __name__ == '__main__':
 		for sent in sents:
 			ner_sent = nlp.ner(sent)
 			for word_with_tag in stanfordNE2BIO(ner_sent):
-				f.write(dlimiter.join(word_with_tag))
-				f.write("\n")
+				f.write('/'.join(word_with_tag))
+				f.write(dlimiter)
 			f.write("\n")
 	nlp.close()
 
