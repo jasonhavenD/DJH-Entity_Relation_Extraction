@@ -45,6 +45,15 @@ def stanfordNE2tree(ne_tagged_sent):
 	return ne_tree
 
 
+def ner(sents, nlp):
+	nered_sents = []
+	for sent in sents:
+		ner_sent = nlp.ner(sent)
+		for word_with_tag in stanfordNE2BIO(ner_sent):
+			nered_sents.append('/'.join(word_with_tag))
+	return nered_sents
+
+
 delimiter = '\t'
 
 if __name__ == '__main__':
@@ -64,7 +73,7 @@ if __name__ == '__main__':
 				f.write('/'.join(word_with_tag))
 				f.write(delimiter)
 			f.write("\n")
-
+	
 	nlp.close()
 
 # https://www.e-learn.cn/content/wangluowenzhang/168232

@@ -11,7 +11,12 @@
 """
 import codecs
 
+
+
+
 delimiter = '\t'
+
+
 if __name__ == '__main__':
 	inputs = ["../data/tokens/tokens1.txt.utf-8", "../data/tagged/tokens1_tagged.txt.utf-8",
 	          "../data/nered/nered1.txt.utf-8", "../data/dependency/dependency1.txt.utf-8",

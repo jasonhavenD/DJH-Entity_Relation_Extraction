@@ -11,23 +11,31 @@
 """
 from stanfordcorenlp import StanfordCoreNLP
 
+
+def word_tokenize(sents, nlp):
+	tokenses = []
+	for sent in sents:
+		tokenses.append(nlp.word_tokenize(sent))
+	return tokenses
+
+
 if __name__ == '__main__':
 	input = "../data/sents/sents2.txt.utf-8"
 	output = "../data/tokens/tokens2.txt.utf-8"
 	
 	nlp = StanfordCoreNLP("c:/stanford-corenlp-full-2018-02-27")
-
+	
 	# print(nltk.sent_tokenize("Textron_Systems_Canada_Inc._@ORG"))
 	# print(nlp.word_tokenize("Textron_Systems_Canada_Inc._@ORG"))
-
+	
 	sents = []
 	with open(input, 'r', encoding='utf-8') as f:
 		sents = f.readlines()
-
+	
 	tokenses = []
 	for sent in sents:
 		tokenses.append(nlp.word_tokenize(sent))
-
+	
 	with open(output, 'w', encoding='utf-8') as f:
 		for tokens in tokenses:
 			f.write(' '.join(tokens))

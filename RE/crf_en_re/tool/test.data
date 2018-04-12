@@ -1,0 +1,10 @@
+docno NN O 0 ROOT O
+: : O 1 punct O
+1111Transition CD O 4 compound O
+services NNS O 1 dep O
+now RB B-DATE 6 advmod O
+mandatory VBP O 4 amod O
+for IN O 10 case O
+soldiersBy NN O 10 compound O
+Jim NNP B-PERSON 10 compound O
+Tice NNP I-PERSON 6 nmod O
