@@ -12,8 +12,8 @@
 from stanfordcorenlp import StanfordCoreNLP
 
 if __name__ == '__main__':
-	input = "../data/sents/sents1.txt.utf-8"
-	output = "../data/tokens/tokens1.txt.utf-8"
+	input = "../data/sents/sents2.txt.utf-8"
+	output = "../data/tokens/tokens2.txt.utf-8"
 	
 	nlp = StanfordCoreNLP("c:/stanford-corenlp-full-2018-02-27")
 

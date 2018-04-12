@@ -12,8 +12,8 @@
 import nltk
 
 if __name__ == '__main__':
-	input = "../data/raw/raw1_with_tag.txt.utf-8"
-	output = "../data/sents/raw1_sents.txt.utf-8"
+	input = "../data/raw/raw2.txt.utf-8"
+	output = "../data/sents/sents2.txt.utf-8"
 
 	text = ""
 	with open(input, 'r', encoding='utf-8') as f:

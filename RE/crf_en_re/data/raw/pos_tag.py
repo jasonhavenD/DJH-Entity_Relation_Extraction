@@ -15,10 +15,10 @@ from stanfordcorenlp import StanfordCoreNLP
 
 
 def pos_tag(sents):
-	# sents = ["AM_General_@ORG, Lockheed_@ORG Martin, and Oshkosh_@ORG (pictured) are competing."]
+	# sents = ["A joint study between Dr._Stephen_S._Fuller_of_George_Mason_University_@P1 and Chmura_Economics_and_Analytics_@ORG showed that America could lose an estimated 2.14 million jobs if Congress_@ORG does nothing to prevent the automatic sequestration cuts.But the effects of sequestration - on top of already reduced military spending on the president's watch - extend well-beyond our fragile economy."]
 	tokenses = []
 	nlp = StanfordCoreNLP("c:/stanford-corenlp-full-2018-02-27")
-	pattern_of_block = re.compile("^(\w+?_)+?@(\w+)$")
+	pattern_of_block = re.compile("^([\w.]+?_)+?@(\w+)$")
 	for sent in sents:
 		tokens = nlp.word_tokenize(sent)
 		sent_with_tag = []
@@ -28,8 +28,6 @@ def pos_tag(sents):
 			if group:
 				lst = []
 				words_str, tag = group[0].split('@')
-				if tag.endswith('>'):
-					print(tag)
 				# clean tag
 				p = re.compile("\w+")
 				tag = re.findall(p, tag)[0]
@@ -41,8 +39,9 @@ def pos_tag(sents):
 					else:
 						lst.append(w + '/I-' + tag)
 				sent_with_tag.extend(lst)
-				continue
-			sent_with_tag.append(token_with_tag)
+				# print(sent_with_tag)
+			else:
+				sent_with_tag.append(token_with_tag)
 		tokenses.append(sent_with_tag)
 	nlp.close()
 	# print(len(tokenses))
@@ -60,9 +59,7 @@ if __name__ == '__main__':
 		sents = f.readlines()
 	pos_tagged_tokenses = pos_tag(sents)
 
-	#有点问题，解码不干净
-
-	# with open(output, 'w', encoding='utf-8') as f:
-	# 	for tokens in pos_tagged_tokenses:
-	# 		f.write(delimiter.join(tokens))
-	# 		f.write("\n")
+	with open(output, 'w', encoding='utf-8') as f:
+		for tokens in pos_tagged_tokenses:
+			f.write(delimiter.join(tokens))
+			f.write("\n")
