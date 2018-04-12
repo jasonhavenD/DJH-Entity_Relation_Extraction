@@ -1,1 +1,25 @@
 #### relation extraction in english with crf
+---
+
+- data
+	- raw
+		- raw1.txt.utf-8 提供的原始文本
+		- raw1_with_tag.txt.utf-8 提供的标注文件
+		- raw2.txt.utf-8 提供的原始文本
+		- extract_tags_rule.py 查看标记空间
+		- sent_tokenize.py 分句
+		- pos_tag.py 根据标注文件 个性化标记实体和关系
+		- raw1_sents.txt.utf-8 分句后的文本
+		- raw1_tagged.txt.utf-8 标记后的文本
+		- readme.txt
+	- raw.zip 提供的原始文本
+	- tagged.zip 提供的标注文本
+- src
+	- convert2utf8.py 将指定文件夹下的文件转换编码
+	- dependency_parse.py 依存分析保存到相应文件
+	- merge2input.py 合并特征文件保存到相应文件
+	- ner.py 实体识别保存到相应文件
+	- pos_tag.py 词性标记保存到相应文件
+	- sent_tokenize.py 分句保存到相应文件
+	- test.py 测试
+	- word_tokenize.py 分词保存到相应文件
