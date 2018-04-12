@@ -45,7 +45,7 @@ def stanfordNE2tree(ne_tagged_sent):
 	return ne_tree
 
 
-dlimiter = '\t'
+delimiter = '\t'
 
 if __name__ == '__main__':
 	input = "../data/sents/sents1.txt.utf-8"
@@ -62,7 +62,7 @@ if __name__ == '__main__':
 			ner_sent = nlp.ner(sent)
 			for word_with_tag in stanfordNE2BIO(ner_sent):
 				f.write('/'.join(word_with_tag))
-				f.write(dlimiter)
+				f.write(delimiter)
 			f.write("\n")
 
 	nlp.close()

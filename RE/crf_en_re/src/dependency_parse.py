@@ -10,7 +10,7 @@
 -------------------------------------------------
 """
 from stanfordcorenlp import StanfordCoreNLP
-
+delimiter = '\t'
 if __name__ == '__main__':
 	input = "../data/sents/sents1.txt.utf-8"
 	output = "../data/dependency/dependency1.txt.utf-8"
@@ -23,10 +23,13 @@ if __name__ == '__main__':
 
 	rst = [nlp.dependency_parse(sent) for sent in sents]
 
+	# print(len(rst))
+
 	with open(output, 'w', encoding='utf-8') as f:
 		for sent in rst:
 			for dep, pre, cur in sent:
-				f.write("{}/{}/{}\t".format(cur, pre, dep))
-		f.write('\n')
+				f.write("{}/{}/{}".format(cur, pre, dep))
+				f.write(delimiter)
+			f.write('\n')
 
 	nlp.close()
