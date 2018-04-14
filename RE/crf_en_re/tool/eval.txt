@@ -1,6 +1,0 @@
-processed 10 tokens with 0 phrases; found: 5 phrases; correct: 0.
-accuracy:   0.00%; precision:   0.00%; recall:   0.00%; FB1:   0.00
-             ADVP: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
-               NP: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
-               PP: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
-               VP: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
