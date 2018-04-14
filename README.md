@@ -6,3 +6,5 @@ entity relation extraction
 #### [relation extraction in chinese with crf algorithm](https://github.com/jasonhavenD/DJH-RE_CRF_ZH)
 
 #### [open relation extraction](https://github.com/jasonhavenD/DJH-OpenRE)
+
+#### [SemEval 2010 task 8](https://github.com/jasonhavenD/DJH-SemEval2010_task8)
