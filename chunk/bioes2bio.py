@@ -28,5 +28,8 @@ def bioes2bio(tags):
 			raise Exception('Invalid format!')
 	return new_tags
 
+
 if __name__ == '__main__':
-    pass
+	tags = "S-ORG O B-LOC I-LOC I-LOC E-LOC O S-ORG O"
+	bios = bioes2bio(tags.split())
+	print(' '.join(bios))

@@ -34,4 +34,6 @@ def bio2bioes(tags):
 
 
 if __name__ == '__main__':
-	pass
+	tags = "B-ORG O B-LOC I-LOC I-LOC I-LOC O B-ORG O"
+	bioes = bio2bioes(tags.split())
+	print(' '.join(bioes))
